@@ -1,0 +1,142 @@
+/* src/styles/Quiz.css */
+.allcontainer-Quiz{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.opcion {
+    background-color: #d5d3d329;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 5px;
+    cursor: pointer;
+  }
+  
+  .opcion.seleccionada {
+    background-color: #e0e0e0;
+  }
+  
+  .opcion.correcta {
+    background-color: green;
+    color: white;
+  }
+  
+  .opcion.incorrecta {
+    background-color: rgb(241, 65, 65);
+    color: white;
+  }
+  
+  .feedback {
+    margin-top: 20px;
+    font-weight: bold;
+  }
+  
+  .feedback.correcto {
+    color: green;
+  }
+  
+  .feedback.incorrecto {
+    color: red;
+  }
+  
+  /* Estilo para el popup de resultados */
+  .resultado-popup {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    width: 300px;
+   
+    display: flex;
+    flex-direction: column;
+    
+    align-items: space-between;
+  
+}
+
+.resultado-popup p{
+    font-weight: 500;
+   font-size: 18px;
+}
+  
+  .resultado-popup button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin: 1em 0;
+  }
+  
+  .resultado-popup button:hover {
+    background-color: #45a049;
+  }
+
+.allcontainer-Quiz{
+    width: 100%;
+}
+  .quiz-container{
+    width: 100%;
+    max-width: 700px;
+    background-color: #f9f9f9;
+    padding: 16px;
+    border-radius: 8px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  }
+  
+
+  .boton-preguntas{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .btn-inactivo{
+    background-color: rgb(224, 221, 221);
+    padding: 15px;
+    border-radius:1px solid gray;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    width: 35%;
+  }
+
+  .btn-activo{
+    background-color: rgb(162, 162, 246);
+    padding: 15px;
+    border-radius:1px solid gray;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    width: 35%;
+  }
+
+  .btn-continuar{
+    background-color: rgb(162, 162, 246);
+    padding: 15px;
+    border-radius:1px solid gray;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    width: 35%;
+  }
+
+  .quiz-container .opciones{
+    margin: 40px 0;
+  }
+
+  .seleccionada{
+    background-color: red;
+  }

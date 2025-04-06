@@ -1,0 +1,21 @@
+/* src/components/Navbar.css */
+.navbar {
+    background-color: #3e488a;
+   
+    position: fixed;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+
+  .navbar ul{
+    list-style: none;
+    padding: 0 !important;
+    margin: 8px;
+  }
+ 
+  .navbar ul li{
+    padding: 0 !important;
+    color: white;
+  }
+  

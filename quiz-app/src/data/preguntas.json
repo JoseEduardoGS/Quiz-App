@@ -1,0 +1,4802 @@
+[
+    {
+      "id": 1,
+      "pregunta": "¿Cuáles son las características del software?",
+      "opciones": [
+        "El software está desarrollado o diseñado; No se fabrica en el sentido clásico.",
+        "El software no se \"desgasta\".",
+        "El software puede ser personalizado o personalizac.",
+        "Todo lo mencionado anteriormente"
+      ],
+      "respuestaCorrecta": "Todo lo mencionado anteriormente",
+      "categoria": "Primera Práctica"
+    },
+    {
+      "id": 2,
+      "pregunta": "Los compiladores, los editores de software vienen bajo qué tipo de software?",
+      "opciones": [
+        "Software del sistema",
+        "Software de la aplicación",
+        "Software científico",
+        "Ninguna de las anteriores"
+      ],
+      "respuestaCorrecta": "Software del sistema",
+      "categoria": "Primera Práctica"
+    },
+    {
+      "id": 3,
+      "pregunta": "El software se define como",
+      "opciones": [
+        "Instrucciones",
+        "Estructuras de datos",
+        "Documentos",
+        "Todas las anteriores"
+      ],
+      "respuestaCorrecta": "Todas las anteriores",
+      "categoria": "Primera Práctica"
+    },
+    {
+      "id": 4,
+      "pregunta": "¿Cuáles son las señales de que un proyecto de software está en problemas?",
+      "opciones": [
+        "El alcance del producto está mal definido.",
+        "Los plazos son poco realistas.",
+        "Los cambios se gestionan mal.",
+        "Todas las anteriores."
+      ],
+      "respuestaCorrecta": "Todas las anteriores.",
+      "categoria": "Primera Práctica"
+    },
+    {
+      "id": 5,
+      "pregunta": "¿Cuál será tu primer paso en la planificación de proyectos?",
+      "opciones": [
+        "Establecer los objetivos y alcance del producto.",
+        "Determine las restricciones del proyecto.",
+        "Selecciona el equipo.",
+        "Ninguna de las anteriores."
+      ],
+      "respuestaCorrecta": "Establecer los objetivos y alcance del producto.",
+      "categoria": "Primera Práctica"
+    },
+    {
+      "id": 6,
+      "pregunta": "¿Qué elemento de codificación se omite generalmente al final de la línea?",
+      "opciones": [
+        "Convenciones de nombres",
+        "Identificando",
+        "Espacio en blanco",
+        "Los operadores"
+      ],
+      "respuestaCorrecta": "Espacio en blanco",
+      "categoria": "Primera Práctica"
+    },
+    {
+      "id": 7,
+      "pregunta": "Las reglas para escribir 'if-then-else', 'case-switch', 'while-until' y 'for' se denominan:",
+      "opciones": [
+        "Comentarios",
+        "Funciones",
+        "Longitud de línea y envoltura",
+        "Estructura de control"
+      ],
+      "respuestaCorrecta": "Estructura de control",
+      "categoria": "Primera Práctica"
+    },
+    {
+        "id": 8,
+        "pregunta": "Haga coincidir la Lista 1 con la Lista 2 y elija la opción correcta.",
+        "opciones": [
+          "1-c, 2-a, 3-d, 4-b",
+          "1-c, 2-a, 3-b, 4-d",
+          "1-a, 2-c, 3-d, 4-b",
+          "1-b, 2-c, 3-a, 4-d"
+        ],
+        "respuestaCorrecta": "1-b, 2-c, 3-a, 4-d",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 9,
+        "pregunta": "Un proyecto puede ser caracterizado como",
+        "opciones": [
+          "Cada proyecto puede no tener un objetivo único y distinto.",
+          "El proyecto es una actividad de rutina o operaciones diarias.",
+          "El proyecto no viene con una hora de inicio y finalización.",
+          "Ninguna de las anteriores."
+        ],
+        "respuestaCorrecta": "Ninguna de las anteriores.",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 10,
+        "pregunta": "Elija la opción correcta en términos de problemas relacionados con la responsabilidad profesional.",
+        "opciones": [
+          "Confidencialidad",
+          "Derechos de propiedad intelectual",
+          "Ambos a y b",
+          "Gestionando las relaciones con los clientes"
+        ],
+        "respuestaCorrecta": "Ambos a y b",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 11,
+        "pregunta": "“Los ingenieros de software no deben usar sus habilidades técnicas para hacer un mal uso de las computadoras de otras personas”. Aquí el término uso incorrecto se refiere a:",
+        "opciones": [
+          "Acceso no autorizado a material informático",
+          "Modificación no autorizada de material informático.",
+          "Diseminación de virus u otro malware.",
+          "Todos los mencionados"
+        ],
+        "respuestaCorrecta": "Todos los mencionados",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 12,
+        "pregunta": "Explique qué se entiende por PRODUCTO con referencia a uno de los ocho principios según el Código de ética de ACM / IEEE.",
+        "opciones": [
+          "El producto debe ser fácil de usar.",
+          "Los ingenieros de software se asegurarán de que sus productos y las modificaciones relacionadas cumplan con los estándares profesionales más altos posibles.",
+          "Los ingenieros de software se asegurarán de que sus productos y las modificaciones relacionadas satisfagan al cliente.",
+          "Significa que el producto diseñado / creado debe estar fácilmente disponible."
+        ],
+        "respuestaCorrecta": "Los ingenieros de software se asegurarán de que sus productos y las modificaciones relacionadas cumplan con los estándares profesionales más altos posibles.",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 13,
+        "pregunta": "Identifique un dilema ético de las situaciones mencionadas a continuación:",
+        "opciones": [
+          "Su empleador lanza un sistema crítico para la seguridad sin terminar la prueba del sistema.",
+          "Negarse a emprender un proyecto.",
+          "Acuerdo en principio con las políticas de la alta dirección.",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Su empleador lanza un sistema crítico para la seguridad sin terminar la prueba del sistema.",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 14,
+        "pregunta": "Identifique la afirmación correcta: “Los ingenieros de software...",
+        "opciones": [
+          "actuar de una manera que sea en el mejor interés de su experiencia y favor.",
+          "actuar consistentemente con el interés público.",
+          "Asegurar que sus productos solo cumplan con el SRS.",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "actuar consistentemente con el interés público.",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 15,
+        "pregunta": "Seleccione la declaración incorrecta: Los ingenieros de software deben...",
+        "opciones": [
+          "No a sabiendas acepte trabajos que estén fuera de su competencia.",
+          "No uses tus habilidades técnicas para hacer mal uso de las computadoras de otras personas.",
+          "Ser dependientes de sus colegas.",
+          "Mantener la integridad y la independencia en su juicio profesional."
+        ],
+        "respuestaCorrecta": "Ser dependientes de sus colegas.",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 16,
+        "pregunta": "La eficiencia en un producto de software no incluye:",
+        "opciones": [
+          "sensibilidad",
+          "licenciamiento",
+          "utilización de memoria",
+          "Tiempo de procesamiento"
+        ],
+        "respuestaCorrecta": "licenciamiento",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 17,
+        "pregunta": "¿Cuál de estos no se encuentra entre los ocho principios seguidos por el Código de ética y práctica profesional de ingeniería de software?",
+        "opciones": [
+          "PÚBLICO",
+          "PROFESIÓN",
+          "PRODUCTO",
+          "AMBIENTE"
+        ],
+        "respuestaCorrecta": "AMBIENTE",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 18,
+        "pregunta": "¿Qué es un software?",
+        "opciones": [
+          "El software es un conjunto de programas.",
+          "El software es documentación y configuración de datos.",
+          "Tanto a como B",
+          "Ninguno de los mencionados"
+        ],
+        "respuestaCorrecta": "Tanto a como B",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 19,
+        "pregunta": "¿Cuál de estos no tiene en cuenta la falla del software?",
+        "opciones": [
+          "Aumento de la demanda",
+          "Baja expectativa",
+          "Aumento de la oferta",
+          "Menos confiable y costoso"
+        ],
+        "respuestaCorrecta": "Aumento de la oferta",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 20,
+        "pregunta": "¿Cuáles son los atributos de un buen software?",
+        "opciones": [
+          "Mantenimiento del software",
+          "Funcionalidad de software",
+          "Desarrollo de software",
+          "a y B"
+        ],
+        "respuestaCorrecta": "a y B",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 21,
+        "pregunta": "¿Cuál de estas actividades de ingeniería de software no forma parte de los procesos de software?",
+        "opciones": [
+          "Dependencia de software",
+          "Desarrollo de software",
+          "Validación de software",
+          "Especificación de software"
+        ],
+        "respuestaCorrecta": "Dependencia de software",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 22,
+        "pregunta": "¿Cuál de estos es incorrecto?",
+        "opciones": [
+          "La ingeniería de software pertenece a la informática.",
+          "La ingeniería de software es una parte de la forma más general de la ingeniería de sistemas.",
+          "La informática pertenece a la ingeniería de softwad.",
+          "La ingeniería de software se ocupa de los aspectos prácticos de desarrollar y entregar software útil."
+        ],
+        "respuestaCorrecta": "La informática pertenece a la ingeniería de softwad.",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 23,
+        "pregunta": "¿Cuál de estos es verdad?",
+        "opciones": [
+          "Los productos genéricos y los productos personalizados son tipos de productos de softwad.",
+          "Los productos genéricos se producen por organización y se venden al mercado abierto.",
+          "Los productos personalizados son encargados por clientes particulares.",
+          "Todas las anteriores."
+        ],
+        "respuestaCorrecta": "Todas las anteriores.",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 24,
+        "pregunta": "¿Cuál de estos no afecta a los diferentes tipos de software en su conjunto?",
+        "opciones": [
+          "Heterogeneidad",
+          "Flexibilidad",
+          "Negocios y cambio social.",
+          "Seguridad"
+        ],
+        "respuestaCorrecta": "Flexibilidad",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 25,
+        "pregunta": "¿Las nociones fundamentales de la ingeniería de software no tienen en cuenta?",
+        "opciones": [
+          "Procesos de software",
+          "Seguridad del software",
+          "Reutilización de software",
+          "Validación de Software"
+        ],
+        "respuestaCorrecta": "Validación de Software",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 26,
+        "pregunta": "¿Cuál de estos no es cierto?",
+        "opciones": [
+          "La web ha llevado a la disponibilidad de servicios de software y la posibilidad de desarrollar sistemas basados en servicios altamente distribuidos.",
+          "Los sistemas basados en web han conducido a la degradación de los lenguajes de programación.",
+          "Web trae concepto de software como servicio.",
+          "El sistema basado en la web debe ser desarrollado y entregado de manera incremental."
+        ],
+        "respuestaCorrecta": "Los sistemas basados en web han conducido a la degradación de los lenguajes de programación.",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 27,
+        "pregunta": "Identifique un lenguaje de cuarta generación (4GL) a partir de lo que se indica a continuación.",
+        "opciones": [
+          "FORTRAN",
+          "COBOL",
+          "Shell de unix",
+          "C ++"
+        ],
+        "respuestaCorrecta": "C ++",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 28,
+        "pregunta": "Organice las siguientes actividades para hacer un producto de software utilizando 4GT.",
+        "opciones": [
+          "1, 4, 3, 2",
+          "4, 3, 1, 2",
+          "4, 1, 3, 2",
+          "1, 3, 4, 2"
+        ],
+        "respuestaCorrecta": "4, 1, 3, 2",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 29,
+        "pregunta": "4GL es un ejemplo de procesamiento.",
+        "opciones": [
+          "Caja blanca",
+          "Caja negra",
+          "Funcional",
+          "Ambos b & c"
+        ],
+        "respuestaCorrecta": "Ambos b & c",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 30,
+        "pregunta": "El modelo 4GT es un paquete de.",
+        "opciones": [
+          "Herramientas de caja",
+          "Herramientas de software",
+          "Programas de software",
+          "Documentación"
+        ],
+        "respuestaCorrecta": "Herramientas de software",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 31,
+        "pregunta": "Modelo de proceso del software RAD significa.",
+        "opciones": [
+          "Desarrollo rápido de aplicaciones.",
+          "Desarrollo relativo de aplicaciones.",
+          "Diseño de aplicaciones rápidas.",
+          "Desarrollo de aplicaciones recientes."
+        ],
+        "respuestaCorrecta": "Desarrollo rápido de aplicaciones.",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 32,
+        "pregunta": "¿Cuál es el modelo más simple de paradigma de desarrollo de software?",
+        "opciones": [
+          "Modelo espiral",
+          "Modelo de Big Bang",
+          "Modelo V",
+          "Modelo de cascada"
+        ],
+        "respuestaCorrecta": "Modelo de cascada",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 33,
+        "pregunta": "El modelo arquitectónico se deriva de cuál de estas fuentes?",
+        "opciones": [
+          "Tanto A y B",
+          "Ambos B y C",
+          "Ambos A y C",
+          "Todo lo mencionado anteriormente"
+        ],
+        "respuestaCorrecta": "Todo lo mencionado anteriormente",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 34,
+        "pregunta": "¿Qué modelo también se conoce como modelo de verificación y validación?",
+        "opciones": [
+          "Modelo de cascada",
+          "Modelo de Big Bang",
+          "Modelo V",
+          "Modelo espiral"
+        ],
+        "respuestaCorrecta": "Modelo V",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 35,
+        "pregunta": "¿Qué modelo no es adecuado para grandes proyectos de software pero es bueno para aprender y experimentar?",
+        "opciones": [
+          "Modelo de Big Bang",
+          "Modelo espiral",
+          "Modelo iterativo",
+          "Modelo de cascada"
+        ],
+        "respuestaCorrecta": "Modelo de Big Bang",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 36,
+        "pregunta": "¿A qué modelo también se le llama ciclo de vida clásico o modelo de cascada?",
+        "opciones": [
+          "Desarrollo iterativo",
+          "Desarrollo secuencial lineal",
+          "Modelo RAD",
+          "Desarrollo incremental"
+        ],
+        "respuestaCorrecta": "Desarrollo secuencial lineal",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 37,
+        "pregunta": "¿Cuál es la tasa de actividad global efectiva promedio en un sistema de tipo E en evolución que es invariante durante la vida útil del producto?",
+        "opciones": [
+          "Autorregulación",
+          "Reduciendo la calidad",
+          "Sistemas de retroalimentación",
+          "Estabilidad organizacional"
+        ],
+        "respuestaCorrecta": "Estabilidad organizacional",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 38,
+        "pregunta": "Build & Fix Model es adecuado para los ejercicios de programación de LOC (línea de código).",
+        "opciones": [
+          "100-200",
+          "200-400",
+          "400-1000",
+          "por encima de 1000"
+        ],
+        "respuestaCorrecta": "100-200",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 39,
+        "pregunta": "¿Cuál de los siguientes modelos no es adecuado para adaptarse a cualquier cambio?",
+        "opciones": [
+          "Construir y arreglar el modelo",
+          "Modelo de prototipos",
+          "Modelo RAD",
+          "Modelo de cascada"
+        ],
+        "respuestaCorrecta": "Modelo de cascada",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 40,
+        "pregunta": "¿Cuál no es uno de los tipos de prototipo de Modelo de Prototipos?",
+        "opciones": [
+          "Prototipo horizontal",
+          "Prototipo vertical",
+          "Prototipo diagonal",
+          "Prototipo de dominio"
+        ],
+        "respuestaCorrecta": "Prototipo diagonal",
+        "categoria": "Primera Práctica"
+      },
+
+      {
+        "id": 41,
+        "pregunta": "¿Cuál de los siguientes no es una fase del modelo de prototipos?",
+        "opciones": [
+          "Diseño rápido",
+          "Codificación",
+          "Refinamiento de prototipos",
+          "Producto de ingeniero"
+        ],
+        "respuestaCorrecta": "Codificación",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 42,
+        "pregunta": "¿Cuál de las siguientes afirmaciones con respecto al modelo de construcción y reparación es incorrecta?",
+        "opciones": [
+          "No hay espacio para el diseño estructurac.",
+          "El código pronto se vuelve no apto para ser arreglado e inmutable",
+          "El mantenimiento es prácticamente imposible.",
+          "Se adapta bien a grandes proyectos."
+        ],
+        "respuestaCorrecta": "Se adapta bien a grandes proyectos.",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 43,
+        "pregunta": "Modelo RAD tiene",
+        "opciones": [
+          "2 fases",
+          "3 fases",
+          "5 fases",
+          "6 fases"
+        ],
+        "respuestaCorrecta": "5 fases",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 44,
+        "pregunta": "¿Cuál es el mayor inconveniente de usar el modelo RAD?",
+        "opciones": [
+          "Se requieren desarrolladores / diseñadores altamente especializados y capacitados.",
+          "Aumenta la reutilización de los componentes.",
+          "Alienta la retroalimentación de cliente / cliente.",
+          "Tanto a y c."
+        ],
+        "respuestaCorrecta": "Tanto a y c.",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 45,
+        "pregunta": "SDLC significa",
+        "opciones": [
+          "Ciclo de vida del desarrollo de programas",
+          "Ciclo de vida de desarrollo de sistemas",
+          "Ciclo de vida del diseño de software",
+          "Diseño del sistema ciclo de vida"
+        ],
+        "respuestaCorrecta": "Ciclo de vida del desarrollo de programas",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 46,
+        "pregunta": "¿Qué modelo se puede seleccionar si el usuario está involucrado en todas las fases de SDLC?",
+        "opciones": [
+          "Modelo de cascada",
+          "Modelo de prototipos",
+          "Modelo RAD",
+          "ambos b & c"
+        ],
+        "respuestaCorrecta": "Modelo RAD",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 47,
+        "pregunta": "¿Cuál de los siguientes no es un modelo de proceso evolutivo?",
+        "opciones": [
+          "Modelo Espiral WINWIN",
+          "Modelo incremental",
+          "Modelo de desarrollo concurrente",
+          "Todos son modelos de software evolutivos"
+        ],
+        "respuestaCorrecta": "Todos son modelos de software evolutivos",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 48,
+        "pregunta": "El modelo incremental es el resultado de una combinación de elementos, ¿de qué dos modelos?",
+        "opciones": [
+          "Construir y arreglar modelo y modelo de cascada",
+          "Modelo lineal y modelo RAD",
+          "Modelo lineal y modelo de prototipos.",
+          "Modelo de cascada y modelo de RAD"
+        ],
+        "respuestaCorrecta": "Modelo lineal y modelo de prototipos.",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 49,
+        "pregunta": "¿Cuál es la principal ventaja de usar el modelo incremental?",
+        "opciones": [
+          "El cliente puede responder a cada incremento",
+          "Más fácil de probar y depurar",
+          "Se utiliza cuando existe la necesidad de llevar un producto al mercado antes de tiempo.",
+          "Ambos b & c"
+        ],
+        "respuestaCorrecta": "Ambos b & c",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 50,
+        "pregunta": "El modelo espiral fue propuesto originalmente por",
+        "opciones": [
+          "IBM",
+          "Barry Boehm",
+          "Periodista",
+          "Royce"
+        ],
+        "respuestaCorrecta": "Barry Boehm",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 51,
+        "pregunta": "El modelo en espiral tiene dos dimensiones: y",
+        "opciones": [
+          "diagonal, angular",
+          "radial, perpendicular",
+          "radial, angular",
+          "diagonal, perpendicular"
+        ],
+        "respuestaCorrecta": "radial, angular",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 52,
+        "pregunta": "¿En qué se diferencia WINWIN Spiral Model de Spiral Model?",
+        "opciones": [
+          "Define las tareas necesarias para definir recursos, líneas de tiempo y otra información relacionada con el proyecto.",
+          "Define un conjunto de actividades de negociación al comienzo de cada paso alrededor de la espiral.",
+          "Define las tareas requeridas para evaluar los riesgos tanto técnicos como de gestión.",
+          "Define las tareas necesarias para construir, probar, instalar y proporcionar soporte al usuario."
+        ],
+        "respuestaCorrecta": "Define un conjunto de actividades de negociación al comienzo de cada paso alrededor de la espiral.",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 53,
+        "pregunta": "Identificar la desventaja del modelo espiral.",
+        "opciones": [
+          "No funciona bien para proyectos más pequeños.",
+          "Gran cantidad de análisis de riesgo",
+          "Fuerte aprobación y control de documentación.",
+          "La funcionalidad adicional se puede agregar en una fecha posterior"
+        ],
+        "respuestaCorrecta": "No funciona bien para proyectos más pequeños.",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 54,
+        "pregunta": "¿En qué se diferencia el modelo incremental del modelo espiral?",
+        "opciones": [
+          "El progreso se puede medir para el modelo incremental.",
+          "Los requisitos cambiantes se pueden acomodar en el modelo incremental.",
+          "Los usuarios pueden ver el sistema temprano en el modelo incremental.",
+          "no hay diferencia entre estos dos"
+        ],
+        "respuestaCorrecta": "El progreso se puede medir para el modelo incremental.",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 55,
+        "pregunta": "Si tuviera que crear aplicaciones cliente / servidor, ¿qué modelo elegiría?",
+        "opciones": [
+          "Modelo Espiral WINWIN",
+          "Modelo espiral",
+          "Modelo concurrente",
+          "Modelo incremental"
+        ],
+        "respuestaCorrecta": "Modelo concurrente",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 56,
+        "pregunta": "La selección de un modelo se basa en",
+        "opciones": [
+          "Requerimientos",
+          "Equipo de desarrollo",
+          "Usuarios",
+          "Todos los mencionados"
+        ],
+        "respuestaCorrecta": "Todos los mencionados",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 57,
+        "pregunta": "¿Qué dos modelos no permiten definir requisitos al principio del ciclo?",
+        "opciones": [
+          "Cascada y RAD",
+          "Prototipos y Espiral",
+          "Prototipado y RAD",
+          "Cascada y espiral"
+        ],
+        "respuestaCorrecta": "Prototipos y Espiral",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 58,
+        "pregunta": "¿Cuál del siguiente modelo de ciclo de vida se puede elegir si el equipo de desarrollo tiene menos experiencia en proyectos similares?",
+        "opciones": [
+          "Espiral",
+          "Cascada",
+          "RAD",
+          "Modelo de mejora iterativa"
+        ],
+        "respuestaCorrecta": "Espiral",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 59,
+        "pregunta": "Si fuera un desarrollador líder de una compañía de software y se le solicita que envíe un proyecto/producto dentro de un marco de tiempo estipulado sin barreras de costo, ¿qué modelo seleccionaría?",
+        "opciones": [
+          "Cascada",
+          "Espiral",
+          "RAD",
+          "Incremental"
+        ],
+        "respuestaCorrecta": "RAD",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 60,
+        "pregunta": "¿Qué dos de los siguientes modelos no podrán dar el resultado deseado si la participación del usuario no está involucrada?",
+        "opciones": [
+          "Cascada y espiral",
+          "RAD y espiral",
+          "RAD y cascada",
+          "RAD y prototipado"
+        ],
+        "respuestaCorrecta": "RAD y prototipado",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 61,
+        "pregunta": "¿Cuál de los siguientes no está definido en un buen documento de especificación de requisitos de software (SRS)?",
+        "opciones": [
+          "Requerimiento funcional",
+          "Requisito no funcional",
+          "Objetivos de implementación",
+          "Algoritmo para la implementación de software"
+        ],
+        "respuestaCorrecta": "Algoritmo para la implementación de software",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 62,
+        "pregunta": "¿Cuál de las siguientes es la comprensión de las limitaciones de los productos de software, los problemas relacionados con el sistema de aprendizaje o los cambios que deben realizarse en los sistemas existentes de antemano, identificando y abordando el impacto del proyecto en la organización y el personal, etc.?",
+        "opciones": [
+          "Diseño de software",
+          "Estudio de factibilidad",
+          "Recolección de requisitos",
+          "Análisis del sistema"
+        ],
+        "respuestaCorrecta": "Análisis del sistema",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 63,
+        "pregunta": "¿Qué proyecto se emprende como consecuencia de una solicitud específica de un cliente?",
+        "opciones": [
+          "Proyectos de desarrollo de conceptos",
+          "Proyectos de mejora de aplicaciones",
+          "Nuevos proyectos de desarrollo de aplicaciones",
+          "Proyectos de mantenimiento de aplicaciones"
+        ],
+        "respuestaCorrecta": "Nuevos proyectos de desarrollo de aplicaciones",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 64,
+        "pregunta": "El proceso de ingeniería de requisitos incluye cuál de estos pasos?",
+        "opciones": [
+          "Estudio de factibilidad",
+          "Recolección de requisitos",
+          "Especificación y validación de requisitos de software",
+          "Todo lo mencionado anteriormente"
+        ],
+        "respuestaCorrecta": "Todo lo mencionado anteriormente",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 65,
+        "pregunta": "La especificación de requisitos de software (SRS) también se conoce como especificación de",
+        "opciones": [
+          "Prueba de caja blanca",
+          "Test de aceptación",
+          "Pruebas integradas",
+          "Prueba de caja negra"
+        ],
+        "respuestaCorrecta": "Prueba de caja negra",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 66,
+        "pregunta": "¿En qué proceso de obtención los desarrolladores discuten con el cliente y los usuarios finales y conocen sus expectativas del software?",
+        "opciones": [
+          "Recolección de requisitos",
+          "Requisitos de organización",
+          "Negociación y discusión",
+          "Documentación"
+        ],
+        "respuestaCorrecta": "Recolección de requisitos",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 67,
+        "pregunta": "Si los requisitos son fácilmente comprensibles y definidos, ¿qué modelo es el más adecuado?",
+        "opciones": [
+          "Modelo espiral",
+          "Modelo de cascada",
+          "Modelo de prototipado",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Modelo de cascada",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 68,
+        "pregunta": "¿Qué documento crea el analista del sistema después de que se recopilan los requisitos de varios interesados?",
+        "opciones": [
+          "Especificación de requisitos de software",
+          "Validación de requisitos de software",
+          "Estudio de factibilidad",
+          "Recolección de requisitos"
+        ],
+        "respuestaCorrecta": "Especificación de requisitos de software",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 69,
+        "pregunta": "¿Cuál está enfocado hacia el objetivo de la organización?",
+        "opciones": [
+          "Estudio de factibilidad",
+          "Recolección de requisitos",
+          "Especificación de requisitos de software",
+          "Validación de requisitos de software"
+        ],
+        "respuestaCorrecta": "Estudio de factibilidad",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 70,
+        "pregunta": "¿Qué documentación funciona como herramienta clave para el diseñador de software, el desarrollador y su equipo de prueba para llevar a cabo sus tareas respectivas?",
+        "opciones": [
+          "Documentación de requisitos",
+          "Documentación del usuario",
+          "Documentación de diseño de software",
+          "Documentación técnica"
+        ],
+        "respuestaCorrecta": "Documentación de requisitos",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 71,
+        "pregunta": "¿Cuál es el significado de la obtención de requisitos en ingeniería de software?",
+        "opciones": [
+          "Recopilación de requisitos.",
+          "Comprensión del requisito.",
+          "Obteniendo los requerimientos del cliente.",
+          "Todas las anteriores."
+        ],
+        "respuestaCorrecta": "Todas las anteriores.",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 72,
+        "pregunta": "¿Cuál de las siguientes es / es técnica de estimación de proyecto?",
+        "opciones": [
+          "Técnica de estimación empírica.",
+          "Técnica de estimación heurística.",
+          "Técnica de estimación analítica.",
+          "Todas las anteriores."
+        ],
+        "respuestaCorrecta": "Todas las anteriores.",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 73,
+        "pregunta": "¿Qué herramientas son útiles en todas las etapas de SDLC, para la recopilación de requisitos para pruebas y documentación?",
+        "opciones": [
+          "Herramientas mayúsculas",
+          "Herramientas de caja baja",
+          "Herramientas de caja integradas",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Herramientas de caja integradas",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 74,
+        "pregunta": "¿Cuáles son los tipos de requisitos de desarrollo de software?",
+        "opciones": [
+          "Disponibilidad",
+          "Confiabilidad",
+          "Usabilidad",
+          "Todos los mencionados"
+        ],
+        "respuestaCorrecta": "Todos los mencionados",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 75,
+        "pregunta": "Seleccione el requisito específico del desarrollador?",
+        "opciones": [
+          "Potabilidad",
+          "Mantenibilidad",
+          "Disponibilidad",
+          "Tanto a como B"
+        ],
+        "respuestaCorrecta": "Tanto a como B",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 76,
+        "pregunta": "FAST significa",
+        "opciones": [
+          "Técnica funcional de especificación de aplicaciones",
+          "Técnica de especificación de aplicación rápida",
+          "Técnica de especificación de aplicación facilitada",
+          "Ninguno de los mencionados"
+        ],
+        "respuestaCorrecta": "Técnica de especificación de aplicación facilitada",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 77,
+        "pregunta": "QFD significa",
+        "opciones": [
+          "Diseño de funciones de calidad",
+          "Desarrollo de la función de calidad",
+          "Despliegue de la función de calidad",
+          "Ninguno de los mencionados"
+        ],
+        "respuestaCorrecta": "Despliegue de la función de calidad",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 78,
+        "pregunta": "Los requisitos del sistema del usuario son las partes de qué documento?",
+        "opciones": [
+          "SDD",
+          "SRS",
+          "DDD",
+          "DFD"
+        ],
+        "respuestaCorrecta": "SRS",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 79,
+        "pregunta": "¿Cuál es uno de los actores más importantes de los siguientes?",
+        "opciones": [
+          "Personal de nivel de entrada",
+          "Accionista de nivel medio",
+          "Gerentes",
+          "Usuarios del software"
+        ],
+        "respuestaCorrecta": "Usuarios del software",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 80,
+        "pregunta": "¿Cuál de los siguientes es un requisito funcional?",
+        "opciones": [
+          "Mantenibilidad",
+          "Portabilidad",
+          "Robustez",
+          "Ninguno de los mencionados"
+        ],
+        "respuestaCorrecta": "Ninguno de los mencionados",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 81,
+        "pregunta": "¿Cuál de los siguientes es un requisito que se ajusta al módulo de un desarrollador?",
+        "opciones": [
+          "Disponibilidad",
+          "Probabilidad",
+          "Usabilidad",
+          "Flexibilidad"
+        ],
+        "respuestaCorrecta": "Probabilidad",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 82,
+        "pregunta": "“Considere un sistema donde, un sensor de calor detecta una intrusión y alerta a la compañía de seguridad”. ¿Qué tipo de requisito está proporcionando el sistema?",
+        "opciones": [
+          "Funcional",
+          "No funcional",
+          "Requisito conocido",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Funcional",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 83,
+        "pregunta": "¿Cuál de las siguientes afirmaciones explica la portabilidad en los requisitos no funcionales?",
+        "opciones": [
+          "Es un grado en que el software que se ejecuta en una plataforma se puede convertir fácilmente para ejecutarse en otra plataforma.",
+          "Se puede mejorar mediante el uso de idiomas, sistemas operativos y herramientas universalmente disponibles y estandarizadas.",
+          "La capacidad del sistema para comportarse de forma coherente de una manera aceptable para el usuario cuando se opera dentro del entorno para el que se diseñó el sistema.",
+          "Tanto a como B"
+        ],
+        "respuestaCorrecta": "Tanto a como B",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 84,
+        "pregunta": "Elija la declaración incorrecta con respecto al requisito no funcional (NFR).",
+        "opciones": [
+          "Enfoque orientado al producto: enfoque en la calidad del sistema (o software)",
+          "Enfoque orientado al proceso: enfoque en cómo se pueden usar los NFR en el proceso de diseño",
+          "Enfoque cuantitativo: encuentre escalas medibles para los atributos de funcionalidad",
+          "Enfoque cualitativo - Estudie varias relaciones entre los objetivos de calidad"
+        ],
+        "respuestaCorrecta": "Enfoque cuantitativo: encuentre escalas medibles para los atributos de funcionalidad",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 85,
+        "pregunta": "¿Cuántos esquemas de clasificación se han desarrollado para los NFR (requisito no funcional)?",
+        "opciones": [
+          "Dos",
+          "Tres",
+          "Cuatro",
+          "Cinco"
+        ],
+        "respuestaCorrecta": "Cinco",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 86,
+        "pregunta": "Según los componentes de FURPS +, ¿cuál de los siguientes no pertenece a S?",
+        "opciones": [
+          "Probabilidad",
+          "Eficiencia de velocidad",
+          "Utilidad",
+          "Instalabilidad"
+        ],
+        "respuestaCorrecta": "Eficiencia de velocidad",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 87,
+        "pregunta": "¿Cuáles son las cuatro dimensiones de la fiabilidad?",
+        "opciones": [
+          "Usabilidad, Fiabilidad, Seguridad, Flexibilidad.",
+          "Disponibilidad, fiabilidad, mantenibilidad, seguridad.",
+          "Disponibilidad, fiabilidad, seguridad, seguridad.",
+          "Seguridad, Seguridad, Probabilidad, Usabilidad."
+        ],
+        "respuestaCorrecta": "Disponibilidad, fiabilidad, seguridad, seguridad.",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 88,
+        "pregunta": "¿Cuál es el primer paso de la obtención de requisitos?",
+        "opciones": [
+          "Identificando a los interesados",
+          "Listado de requisitos",
+          "Recopilación de requisitos",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Identificando a los interesados",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 89,
+        "pregunta": "Comenzando de menos a más importante, elija el orden de las partes interesadas.",
+        "opciones": [
+          "i. Gerentes, ii. Personal de nivel de entrada, iii. Usuarios, iv. Accionista de nivel medio",
+          "i. Gerentes, ii. Personal de nivel de entrada, iii. Usuarios, iv. Accionista de nivel medio",
+          "ii. Personal de nivel de entrada, iv. Accionista de nivel medio, i. Gerentes, iii. Usuarios",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "ii. Personal de nivel de entrada, iv. Accionista de nivel medio, i. Gerentes, iii. Usuarios",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 90,
+        "pregunta": "Organice las tareas involucradas en la obtención de requisitos de una manera apropiada.",
+        "opciones": [
+          "iii. Recopilación de requisitos, i. Consolidación, ii. Priorización, iv. Evaluación",
+          "iii. Recopilación de requisitos, iv. Evaluación, ii. Priorización, i. Consolidación",
+          "iii. Recopilación de requisitos, ii. Priorización, iv. Evaluación, i. Consolidación",
+          "ii. Priorización, iii. Recopilación de requisitos, iv. Evaluación, i. Consolidación"
+        ],
+        "respuestaCorrecta": "iii. Recopilación de requisitos, iv. Evaluación, ii. Priorización, i. Consolidación",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 91,
+        "pregunta": "¿Qué diseño identifica el software como un sistema con muchos componentes que interactúan entre sí?",
+        "opciones": [
+          "Diseño arquitectónico",
+          "Diseño de alto nivel",
+          "Diseño detallado",
+          "Ambos B y C"
+        ],
+        "respuestaCorrecta": "Diseño arquitectónico",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 92,
+        "pregunta": "La herramienta CASE significa.",
+        "opciones": [
+          "Ingeniería de software asistida por computadora",
+          "Ingeniería de software asistida por componentes",
+          "Ingeniería constructiva de software asistido",
+          "Ingeniería de Software de Análisis Computacional"
+        ],
+        "respuestaCorrecta": "Ingeniería de software asistida por computadora",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 93,
+        "pregunta": "FAST significa.",
+        "opciones": [
+          "Técnica de software de aplicación facilitada.",
+          "Técnica de software de aplicación funcional.",
+          "Facilitado técnica de especificación de aplicaciones.",
+          "Ninguna de las anteriores."
+        ],
+        "respuestaCorrecta": "Facilitado técnica de especificación de aplicaciones.",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 94,
+        "pregunta": "Abrevia el término CASO.",
+        "opciones": [
+          "Ingeniería de software autorizada por computadora",
+          "Ingeniería de software asistida por computadora",
+          "Ingeniería de Software Autorizada Común",
+          "Ingeniería de software con asistencia común"
+        ],
+        "respuestaCorrecta": "Ingeniería de software asistida por computadora",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 95,
+        "pregunta": "¿Qué se describe por medio de DFD como se estudió anteriormente y se representa en forma algebraica?",
+        "opciones": [
+          "Flujo de datos",
+          "Almacenamiento de datos",
+          "Estructuras de datos",
+          "Elementos de datos"
+        ],
+        "respuestaCorrecta": "Flujo de datos",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 96,
+        "pregunta": "Una entidad en el Modelo ER es un ser del mundo real, que tiene algunas propiedades llamadas.",
+        "opciones": [
+          "Atributos",
+          "Relación",
+          "Dominio",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Atributos",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 97,
+        "pregunta": "El número máximo de objetos que pueden participar en una relación se denomina.",
+        "opciones": [
+          "Cardinalidad",
+          "Atributos",
+          "Operaciones",
+          "Transformadores"
+        ],
+        "respuestaCorrecta": "Cardinalidad",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 98,
+        "pregunta": "Si una aplicación permite ejecutar varias instancias de sí misma, aparecen en la pantalla, ya que las ventanas separadas se denominan.",
+        "opciones": [
+          "Ventana",
+          "Pestañas",
+          "Menú",
+          "Cursor"
+        ],
+        "respuestaCorrecta": "Ventana",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 99,
+        "pregunta": "¿Cuál es la técnica utilizada para identificar los riesgos asociados con el sistema de software?",
+        "opciones": [
+          "Estrategias de gestión de riesgos",
+          "Estrategia de análisis",
+          "Evaluación de riesgos",
+          "Planificación de riesgos"
+        ],
+        "respuestaCorrecta": "Evaluación de riesgos",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 100,
+        "pregunta": "¿Cuál es el objetivo de la ingeniería de requisitos?",
+        "opciones": [
+          "Definir los problemas y las necesidades del cliente",
+          "Desarrollar el sistema",
+          "Analizar las relaciones",
+          "Implementar la solución"
+        ],
+        "respuestaCorrecta": "Definir los problemas y las necesidades del cliente",
+        "categoria": "Primera Práctica"
+      },
+      {
+        "id": 101,
+        "pregunta": "Las actividades y las acciones realizadas sobre los datos están representadas por círculos o rectángulos de bordes redondos que se llaman.",
+        "opciones": [
+          "Entidades",
+          "Proceso",
+          "Almacenamiento de datos",
+          "Flujo de datos"
+        ],
+        "respuestaCorrecta": "Proceso",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 102,
+        "pregunta": "Los lenguajes OOD proporcionan un mecanismo donde los métodos que realizan tareas similares pero varían en los argumentos, y que se pueden asignar al mismo nombre se llama.",
+        "opciones": [
+          "Las clases",
+          "Objeto",
+          "Polimorfismo",
+          "Encapsulacion"
+        ],
+        "respuestaCorrecta": "Polimorfismo",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 103,
+        "pregunta": "¿Qué sistema basado en computadora puede tener un efecto profundo en el diseño que se elija y también se aplicará el enfoque de implementación?",
+        "opciones": [
+          "Elementos basados en escenarios",
+          "Elementos basados en la clase",
+          "Elementos de comportamiento",
+          "Elementos orientados al flujo"
+        ],
+        "respuestaCorrecta": "Elementos de comportamiento",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 104,
+        "pregunta": "El nombre del diagrama que representa el flujo de actividades descrito por los casos de uso y, al mismo tiempo, los captores están involucrados en UML.",
+        "opciones": [
+          "Diagrama de estado",
+          "Diagrama de carril de natación",
+          "Diagrama de actividad",
+          "Diagrama de componentes"
+        ],
+        "respuestaCorrecta": "Diagrama de carril de natación",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 105,
+        "pregunta": "De lo siguiente, seleccione la opción correcta que se usa para mostrar la opción disponible para la selección.",
+        "opciones": [
+          "Caja",
+          "Caja de texto",
+          "Botón",
+          "Boton de radio"
+        ],
+        "respuestaCorrecta": "Boton de radio",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 106,
+        "pregunta": "¿Cuál de los niveles lleva a cabo el objetivo, el objetivo, las tareas de trabajo, los productos de trabajo y otras actividades del proceso de software?",
+        "opciones": [
+          "Realizado",
+          "Incompleto",
+          "Optimizado",
+          "Gestionado cuantitativamente"
+        ],
+        "respuestaCorrecta": "Realizado",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 107,
+        "pregunta": "En OOD, los atributos (variables de datos) y los métodos (operación en los datos) que se agrupan se llaman.",
+        "opciones": [
+          "Las clases",
+          "Objetos",
+          "Encapsulacion",
+          "Herencia"
+        ],
+        "respuestaCorrecta": "Encapsulacion",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 108,
+        "pregunta": "¿Qué es lo que a los diseñadores les gustaría tener una lista de todos los requisitos funcionales y no funcionales de la GUI que pueden tomarse del usuario y su solución de software existente?",
+        "opciones": [
+          "Análisis de usuario",
+          "Análisis de tareas",
+          "Recopilación de requisitos de GUI",
+          "Diseño e implementación de GUI"
+        ],
+        "respuestaCorrecta": "Recopilación de requisitos de GUI",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 109,
+        "pregunta": "¿Qué clases implementan las abstracciones de negocios de nivel inferior que se requieren para administrar completamente las clases de dominio de negocios?",
+        "opciones": [
+          "Clases de interfaz de usuario",
+          "Clases de dominio de negocios",
+          "Clases de proceso",
+          "Clases de sistema"
+        ],
+        "respuestaCorrecta": "Clases de proceso",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 110,
+        "pregunta": "¿Qué tipo de DFD se concentra en el proceso del sistema y el flujo de datos en el sistema?",
+        "opciones": [
+          "DFD lógico",
+          "DFD fisico",
+          "Tanto A y B",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "DFD lógico",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 111,
+        "pregunta": "Cada atributo se define por su correspondiente conjunto de valores que se llama.",
+        "opciones": [
+          "Entidad",
+          "Dominio",
+          "Relación",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Dominio",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 112,
+        "pregunta": "El Lenguaje de modelado unificado (UML) se ha convertido en un estándar efectivo para el modelado de software. ¿Cuántas notaciones diferentes tiene?",
+        "opciones": [
+          "Tres",
+          "Cuatro",
+          "Seis",
+          "Nueve"
+        ],
+        "respuestaCorrecta": "Nueve",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 113,
+        "pregunta": "¿Qué modelo en el modelado del sistema representa el comportamiento dinámico del sistema?",
+        "opciones": [
+          "Modelo de contexto",
+          "Modelo de comportamiento",
+          "Modelo de datos",
+          "Modelo de objeto"
+        ],
+        "respuestaCorrecta": "Modelo de comportamiento",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 114,
+        "pregunta": "¿Qué modelo en el modelado de sistemas representa la naturaleza estática del sistema?",
+        "opciones": [
+          "Modelo de comportamiento",
+          "Modelo de contexto",
+          "Modelo de datos",
+          "Modelo estructural"
+        ],
+        "respuestaCorrecta": "Modelo estructural",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 115,
+        "pregunta": "¿Qué perspectiva en el modelado de sistemas muestra el sistema o la arquitectura de datos?",
+        "opciones": [
+          "Perspectiva estructural",
+          "Perspectiva de comportamiento",
+          "Perspectiva externa",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Perspectiva estructural",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 116,
+        "pregunta": "El UML admite el modelado basado en eventos utilizando diagramas.",
+        "opciones": [
+          "Despliegue",
+          "Colaboración",
+          "Estado",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Estado",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 117,
+        "pregunta": "¿Cuál de los siguientes diagramas no es compatible con UML considerando el modelado basado en datos?",
+        "opciones": [
+          "Actividad",
+          "Diagrama de flujo de datos (DFD)",
+          "Carta del estado",
+          "Componente"
+        ],
+        "respuestaCorrecta": "Diagrama de flujo de datos (DFD)",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 118,
+        "pregunta": "Nos permite inferir que diferentes miembros de clases tienen algunas características comunes.",
+        "opciones": [
+          "Realización",
+          "Agregación",
+          "Generalización",
+          "Dependencia"
+        ],
+        "respuestaCorrecta": "Generalización",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 119,
+        "pregunta": "Y diagramas de UML representan modelos de interacción.",
+        "opciones": [
+          "Caso de uso, secuencia",
+          "Clase, objeto",
+          "Actividad, gráfico del estado",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Caso de uso, secuencia",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 120,
+        "pregunta": "¿Qué nivel de Diagrama de relaciones entre entidades (ERD) modela todas las entidades y relaciones?",
+        "opciones": [
+          "Nivel 1",
+          "Nivel 2",
+          "Nivel 3",
+          "Nivel 4"
+        ],
+        "respuestaCorrecta": "Nivel 2",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 121,
+        "pregunta": "La desventaja de la modularización es",
+        "opciones": [
+          "Los componentes más pequeños son más fáciles de mantener",
+          "Programa puede dividirse en función de aspectos funcionales.",
+          "El nivel deseado de abstracción se puede traer en el programa",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Ninguna de las anteriores",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 122,
+        "pregunta": "La aplicación que genera un diálogo para obtener la confirmación del usuario y para eliminar un archivo es un ejemplo para",
+        "opciones": [
+          "Botón de radio",
+          "Caja de texto",
+          "Caja",
+          "Cuadro de diálogo"
+        ],
+        "respuestaCorrecta": "Cuadro de diálogo",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 123,
+        "pregunta": "¿Cuál de las siguientes opciones no se puede aplicar con el software de acuerdo con las capas de ingeniería de software?",
+        "opciones": [
+          "Proceso",
+          "Métodos",
+          "Fabricación",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Fabricación",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 124,
+        "pregunta": "¿Qué software se usa para controlar productos y sistemas para los mercados de consumo e industrial?",
+        "opciones": [
+          "Software del sistema",
+          "Software de inteligencia artificial",
+          "Software embebido",
+          "Ingeniería y software científico"
+        ],
+        "respuestaCorrecta": "Software embebido",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 125,
+        "pregunta": "¿Qué componente de software permite que el programa manipule adecuadamente la información?",
+        "opciones": [
+          "Instrucciones",
+          "Estructuras de datos",
+          "Documentos",
+          "Todas las anteriores"
+        ],
+        "respuestaCorrecta": "Estructuras de datos",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 126,
+        "pregunta": "A partir de lo siguiente, ¿qué software se ha caracterizado por los algoritmos de 'Crujido de números'?",
+        "opciones": [
+          "Software del sistema",
+          "Software de inteligencia artificial",
+          "Software embebido",
+          "Ingeniería y software científico"
+        ],
+        "respuestaCorrecta": "Ingeniería y software científico",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 127,
+        "pregunta": "¿Qué es una ventana secundaria que contiene un mensaje para el usuario y solicita que se realice alguna acción?",
+        "opciones": [
+          "Cuadro de diálogo",
+          "Caja de texto",
+          "Caja",
+          "Botón de radio"
+        ],
+        "respuestaCorrecta": "Cuadro de diálogo",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 128,
+        "pregunta": "¿Qué nivel de subsistema se usa de una aplicación?",
+        "opciones": [
+          "Nivel de aplicación",
+          "Nivel de componente",
+          "Nivel de módulos",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Nivel de componente",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 129,
+        "pregunta": "¿Qué diseño define la estructura lógica de cada módulo y sus interfaces que se utiliza para comunicarse con otros módulos?",
+        "opciones": [
+          "Diseños de alto nivel",
+          "Diseños arquitectónicos",
+          "Diseño detallado",
+          "Todo lo mencionado anteriormente"
+        ],
+        "respuestaCorrecta": "Diseño detallado",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 130,
+        "pregunta": "¿Qué diseño se ocupa de la parte de implementación en la que muestra un sistema y sus subsistemas en los dos diseños anteriores?",
+        "opciones": [
+          "Diseño arquitectónico",
+          "Diseño de alto nivel",
+          "Diseño detallado",
+          "Tanto A y B"
+        ],
+        "respuestaCorrecta": "Diseño detallado",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 131,
+        "pregunta": "El proceso y la mejora del software son evaluados por",
+        "opciones": [
+          "ISO 9000",
+          "ISO 9001",
+          "ESPECIA (ISO / IEC15504)",
+          "Tanto A y C"
+        ],
+        "respuestaCorrecta": "Tanto A y C",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 132,
+        "pregunta": "¿Cuál de los siguientes no es una sección en el estándar para los planes SQA recomendados por IEEE?",
+        "opciones": [
+          "Presupuesto",
+          "Hora",
+          "Gente",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Presupuesto",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 133,
+        "pregunta": "¿Cuál es la exactitud, integridad y consistencia del modelo de requisitos tendrá una fuerte influencia en la calidad de todos los productos de trabajo que siguen?",
+        "opciones": [
+          "Calidad de los requisitos",
+          "Calidad de diseño",
+          "Calidad del código",
+          "Efectividad del control de calidad"
+        ],
+        "respuestaCorrecta": "Calidad de los requisitos",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 134,
+        "pregunta": "IEEE proporciona un estándar como IEEE 830-1993. ¿Para qué actividad se recomienda esta norma estándar?",
+        "opciones": [
+          "Especificación de requisitos de software",
+          "Diseño de software",
+          "Pruebas",
+          "Tanto a como B"
+        ],
+        "respuestaCorrecta": "Especificación de requisitos de software",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 135,
+        "pregunta": "El Six Sigma para ingeniería de software ¿Qué proporciona el proceso existente y su salida para determinar el rendimiento de calidad actual?",
+        "opciones": [
+          "Definir",
+          "Analizar",
+          "Medir",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Medir",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 136,
+        "pregunta": "¿Cuál de los siguientes no es un software de calidad?",
+        "opciones": [
+          "Productividad",
+          "Portabilidad",
+          "Oportunidad",
+          "Visibilidad"
+        ],
+        "respuestaCorrecta": "Portabilidad",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 137,
+        "pregunta": "¿Cuál de las siguientes no es una Actividad Paraguas que complemente las cinco actividades del marco de proceso y ayude al equipo a gestionar y controlar el progreso, la calidad, el cambio y el riesgo?",
+        "opciones": [
+          "Gestión de reutilización",
+          "Medición",
+          "Gestión de riesgos",
+          "Opiniones de los usuarios"
+        ],
+        "respuestaCorrecta": "Opiniones de los usuarios",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 138,
+        "pregunta": "Elija un software interno de calidad a continuación:",
+        "opciones": [
+          "Escalabilidad",
+          "Usabilidad",
+          "Reutilización",
+          "Confiabilidad"
+        ],
+        "respuestaCorrecta": "Reutilización",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 139,
+        "pregunta": "El modelo CMM en Ingeniería de Software es una técnica de",
+        "opciones": [
+          "Desarrollar el software",
+          "Mejorar el proceso del software",
+          "Mejorar el proceso de prueba",
+          "Todas las anteriores"
+        ],
+        "respuestaCorrecta": "Mejorar el proceso del software",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 140,
+        "pregunta": "Si no tiene idea de cómo mejorar el proceso para el software de calidad, ¿qué modelo se utiliza?",
+        "opciones": [
+          "Un modelo continuo",
+          "Un modelo por etapas",
+          "Tanto A y B",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Un modelo por etapas",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 141,
+        "pregunta": "¿Qué tipo de prueba de software se usa generalmente en Mantenimiento de Software?",
+        "opciones": [
+          "Pruebas de regresión",
+          "Pruebas del sistema",
+          "Pruebas de integración",
+          "Examen de la unidad"
+        ],
+        "respuestaCorrecta": "Pruebas de regresión",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 142,
+        "pregunta": "La prueba de regresión es una actividad muy costosa.",
+        "opciones": [
+          "Cierto",
+          "Falso",
+          "No puedo decir",
+          "Ninguno de los mencionados"
+        ],
+        "respuestaCorrecta": "Falso",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 143,
+        "pregunta": "Las técnicas de reevaluación selectiva pueden ser más económicas que la técnica de 'reprobar todo'. ¿Cuántas técnicas de reevaluación selectiva existen?",
+        "opciones": [
+          "dos",
+          "Tres",
+          "cuatro",
+          "cinco"
+        ],
+        "respuestaCorrecta": "Tres",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 144,
+        "pregunta": "¿Qué técnica de reevaluación selectiva selecciona cada caso de prueba que hace que un programa modificado produzca una salida diferente a su versión original?",
+        "opciones": [
+          "Cobertura",
+          "Minimización",
+          "Seguro",
+          "Maximización"
+        ],
+        "respuestaCorrecta": "Seguro",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 145,
+        "pregunta": "¿Qué mide la capacidad de una técnica de selección de prueba de regresión para manejar aplicaciones realistas?",
+        "opciones": [
+          "Eficiencia",
+          "Precisión",
+          "Generalidad",
+          "Inclusión"
+        ],
+        "respuestaCorrecta": "Generalidad",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 146,
+        "pregunta": "¿Qué técnica de selección de prueba de regresión expone fallas causadas por modificaciones?",
+        "opciones": [
+          "Eficiencia",
+          "Precisión",
+          "Generalidad",
+          "Inclusión"
+        ],
+        "respuestaCorrecta": "Inclusión",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 147,
+        "pregunta": "El proceso de generación de documentos de análisis y diseño se conoce como",
+        "opciones": [
+          "Ingeniería de software",
+          "Reingeniería de software",
+          "Ingeniería inversa",
+          "Reingeniería"
+        ],
+        "respuestaCorrecta": "Ingeniería inversa",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 148,
+        "pregunta": "¿Qué es un parche de software?",
+        "opciones": [
+          "Arreglo requerido o crítico",
+          "Arreglo de emergencia",
+          "Corrección diaria o rutinaria",
+          "Ninguno de los mencionados"
+        ],
+        "respuestaCorrecta": "Arreglo de emergencia",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 149,
+        "pregunta": "¿Cuál de los siguientes no es un modelo de mantenimiento?",
+        "opciones": [
+          "Modelo de cascada",
+          "Modelo orientado a la reutilización",
+          "Modelo de mejora iterativa",
+          "Modelo de solución rápida"
+        ],
+        "respuestaCorrecta": "Modelo de cascada",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 150,
+        "pregunta": "¿Qué significa ACT en el modelo In Boehm para el mantenimiento del software?",
+        "opciones": [
+          "Pista de cambio real",
+          "Pista de cambio anual",
+          "Tráfico de cambio anual",
+          "Tráfico de cambio real"
+        ],
+        "respuestaCorrecta": "Tráfico de cambio anual",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 151,
+        "pregunta": "La certificación de terceros para estándares de software se basa en",
+        "opciones": [
+          "Ul 1998, Segunda Edición",
+          "UT 1998, Segunda Edición",
+          "Ul 1992, Segunda Edición",
+          "Ul 1996, Segunda Edición"
+        ],
+        "respuestaCorrecta": "Ul 1998, Segunda Edición",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 152,
+        "pregunta": "¿Cuáles son los objetivos para obtener la acreditación de laboratorio?",
+        "opciones": [
+          "Aumentar la disponibilidad de servicios de pruebas a través de laboratorios de terceros.",
+          "Aumentar la disponibilidad del mercado de pruebas para fomentar el desarrollo de la industria de pruebas de software.",
+          "Reducir los costos al aumentar la oferta de servicios de pruebas.",
+          "Todos los mencionados"
+        ],
+        "respuestaCorrecta": "Todos los mencionados",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 153,
+        "pregunta": "El Programa Nacional de Acreditación de Laboratorios Voluntarios aprueba la acreditación en",
+        "opciones": [
+          "Estándares ambientales",
+          "Computadoras y electrónica",
+          "Pruebas de producto",
+          "Todos los mencionados"
+        ],
+        "respuestaCorrecta": "Todos los mencionados",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 154,
+        "pregunta": "CSTE significa",
+        "opciones": [
+          "Tecnología de software certificada",
+          "Probador de software certificado",
+          "Aprendiz de software certificado",
+          "Ninguno de los mencionados"
+        ],
+        "respuestaCorrecta": "Probador de software certificado",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 155,
+        "pregunta": "CSQA significa",
+        "opciones": [
+          "Analista de Calidad de Software Certificado",
+          "Calidad de software certificada aprobada",
+          "Calidad de software certificada aclamada",
+          "Ninguno de los mencionados"
+        ],
+        "respuestaCorrecta": "Analista de Calidad de Software Certificado",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 156,
+        "pregunta": "“Robustez” responde cuál de las siguientes descripciones?",
+        "opciones": [
+          "Las herramientas CASE se utilizarán para apoyar las actividades del proceso.",
+          "Los errores de proceso se evitan o atrapan antes de que den como resultado errores del producto.",
+          "El proceso definido es aceptable y utilizable por los ingenieros responsables de producir el software.",
+          "El proceso continúa a pesar de problemas inesperados."
+        ],
+        "respuestaCorrecta": "El proceso continúa a pesar de problemas inesperados.",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 157,
+        "pregunta": "La mejora de procesos es el conjunto de actividades, métodos y transformaciones que los desarrolladores utilizan para desarrollar y mantener sistemas de información.",
+        "opciones": [
+          "Cierto",
+          "Falso",
+          "No puedo decir",
+          "Ninguno de los mencionados"
+        ],
+        "respuestaCorrecta": "Falso",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 158,
+        "pregunta": "¿La 'comprensibilidad' responde cuál de las siguientes descripciones?",
+        "opciones": [
+          "La medida en que el proceso se define explícitamente",
+          "Los errores de proceso se evitan o atrapan antes de que den como resultado errores del producto.",
+          "El proceso definido es aceptable y utilizable por los ingenieros responsables de producir el producto de software.",
+          "El proceso continúa a pesar de problemas inesperados."
+        ],
+        "respuestaCorrecta": "La medida en que el proceso se define explícitamente",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 159,
+        "pregunta": "¿Cuántas etapas hay en proceso de mejora?",
+        "opciones": [
+          "Tres",
+          "cuatro",
+          "cinco",
+          "seis"
+        ],
+        "respuestaCorrecta": "Tres",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 160,
+        "pregunta": "¿En qué etapa de mejora de procesos se identifican cuellos de botella y debilidades?",
+        "opciones": [
+          "Medición del proceso",
+          "Análisis de proceso",
+          "Cambio de proceso",
+          "Ninguno de los mencionados"
+        ],
+        "respuestaCorrecta": "Análisis de proceso",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 161,
+        "pregunta": "COCOMO significa",
+        "opciones": [
+          "Consumo de café",
+          "Consejo de Construcción",
+          "Control de Control",
+          "Composición"
+        ],
+        "respuestaCorrecta": "Consejo de Construcción",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 162,
+        "pregunta": "¿Cuál puede estimarse en términos de KLOC (línea de código de Kilo) o al calcular el número de puntos de función en el software?",
+        "opciones": [
+          "Estimación del tiempo",
+          "Estimación del esfuerzo",
+          "Estimación de costos",
+          "Estimación del tamaño del software"
+        ],
+        "respuestaCorrecta": "Estimación del tamaño del software",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 163,
+        "pregunta": "¿Qué métricas se derivan al normalizar las medidas de calidad y / o productividad considerando el tamaño del software que se ha producido?",
+        "opciones": [
+          "Tamaño orientado",
+          "Orientado a funciones",
+          "Orientado a objetos",
+          "Uso-caso-orientado"
+        ],
+        "respuestaCorrecta": "Tamaño orientado",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 164,
+        "pregunta": "¿Cuál es la medida más común para la corrección?",
+        "opciones": [
+          "Defectos por KLOC",
+          "Errores por KLOC",
+          "$ por KLOC",
+          "Páginas de documentación por KLOC."
+        ],
+        "respuestaCorrecta": "Defectos por KLOC",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 165,
+        "pregunta": "Abrevia el término SMI.",
+        "opciones": [
+          "Índice de madurez del software",
+          "Instrucción del modelo de software",
+          "Instrucción de madurez de software",
+          "Índice de modelo de software"
+        ],
+        "respuestaCorrecta": "Índice de madurez del software",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 166,
+        "pregunta": "En la técnica de estimación empírica, ¿qué modelo ha desarrollado Barry W. Boehm?",
+        "opciones": [
+          "Modelo putnam",
+          "COCOMO",
+          "Ambos a y b",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "COCOMO",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 167,
+        "pregunta": "¿La línea de código (LOC) del producto viene bajo qué tipo de medidas?",
+        "opciones": [
+          "Medidas indirectas",
+          "Medidas directas",
+          "Codificación",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Medidas directas",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 168,
+        "pregunta": "¿Cuál es el tamaño del software de estimación debe ser conocido?",
+        "opciones": [
+          "Estimación del tiempo",
+          "Estimación del esfuerzo",
+          "Estimación de costos",
+          "Estimación del tamaño del software"
+        ],
+        "respuestaCorrecta": "Estimación del esfuerzo",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 169,
+        "pregunta": "¿Cuántos números de niveles de madurez en CMM están disponibles?",
+        "opciones": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "respuestaCorrecta": "5",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 170,
+        "pregunta": "¿Cuál de los siguientes es la tarea de los indicadores del proyecto?",
+        "opciones": [
+          "Ayuda en la evaluación del estado del proyecto en curso.",
+          "Rastrear el riesgo potencial",
+          "Tanto a como B",
+          "Ninguno de los mencionados"
+        ],
+        "respuestaCorrecta": "Tanto a como B",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 171,
+        "pregunta": "La cantidad de tiempo que el software está disponible para su uso se conoce como",
+        "opciones": [
+          "Confiabilidad",
+          "Usabilidad",
+          "Eficiencia",
+          "Funcionalidad"
+        ],
+        "respuestaCorrecta": "Confiabilidad",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 172,
+        "pregunta": "El tamaño y la complejidad son parte de",
+        "opciones": [
+          "Métricas del producto",
+          "Métricas del proceso",
+          "Métricas del proyecto",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Métricas del producto",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 173,
+        "pregunta": "El costo y el horario son parte de",
+        "opciones": [
+          "Métricas del producto",
+          "Métricas del proceso",
+          "Métricas del proyecto",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Métricas del proyecto",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 174,
+        "pregunta": "El número de errores encontrados por persona por hora gastada es un ejemplo de",
+        "opciones": [
+          "Medición",
+          "Medida",
+          "Métrico",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Métrico",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 175,
+        "pregunta": "¿Cuál de los siguientes no está clasificado en la Operación del producto de los factores de calidad del software de McCall?",
+        "opciones": [
+          "Flexibilidad",
+          "Confiabilidad",
+          "Usabilidad",
+          "Integridad"
+        ],
+        "respuestaCorrecta": "Flexibilidad",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 176,
+        "pregunta": "La relación de arco a nodo se da como r = a / n. ¿Qué representa 'a' en la relación?",
+        "opciones": [
+          "Número máximo de nodos en cualquier nivel",
+          "El camino más largo desde la raíz hasta una hoja.",
+          "Número de módulos",
+          "Líneas de control"
+        ],
+        "respuestaCorrecta": "Líneas de control",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 177,
+        "pregunta": "¿Cuál de las siguientes no está categorizada bajo Métricas de diseño a nivel de componente?",
+        "opciones": [
+          "Métricas de Complejidad",
+          "Métricas de Cohesión",
+          "Métricas de morfología",
+          "Métricas de acoplamiento"
+        ],
+        "respuestaCorrecta": "Métricas de morfología",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 178,
+        "pregunta": "El porcentaje de módulos inspeccionados es parte de",
+        "opciones": [
+          "Métricas del producto",
+          "Métricas del proceso",
+          "Métricas del proyecto",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Métricas del proceso",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 179,
+        "pregunta": "Identifique la opción correcta con referencia a Métricas de calidad del software.",
+        "opciones": [
+          "Integridad = [Sigma (1 - amenaza)] * (1 - seguridad)",
+          "Integridad = [1 - Sigma (amenaza)] * (1 - seguridad)",
+          "Integridad = [1 - amenaza * Sigma (1 - seguridad)]",
+          "Integridad = Sigma [1 - amenaza * (1 - seguridad)]"
+        ],
+        "respuestaCorrecta": "Integridad = Sigma [1 - amenaza * (1 - seguridad)]",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 180,
+        "pregunta": "De los siguientes métodos, ¿qué tamaño del producto de software se puede calcular?",
+        "opciones": [
+          "Contando las líneas de código entregadas.",
+          "Contando los puntos de función entregados",
+          "Tanto a como b anterior",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Tanto a como b anterior",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 181,
+        "pregunta": "El modelo de proceso está representado por",
+        "opciones": [
+          "CMMI",
+          "SEI",
+          "CMI",
+          "SE"
+        ],
+        "respuestaCorrecta": "CMMI",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 182,
+        "pregunta": "Área de proceso en la que están presentes la innovación organizativa y el análisis y la resolución informales de despliegue.",
+        "opciones": [
+          "mejora continua del proceso",
+          "gestión cuantitativa",
+          "proceso de estandarización",
+          "gestión básica de proyectos"
+        ],
+        "respuestaCorrecta": "mejora continua del proceso",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 183,
+        "pregunta": "Nivel de capacidad en el que se han alcanzado todos los criterios del nivel 3 y el área de proceso se controla y mejora mediante la medición y la evaluación de la calidad en",
+        "opciones": [
+          "Nivel 1: Realizado",
+          "Nivel 2: Gestionado",
+          "Nivel 3: Definido",
+          "Nivel 4: Gestionado Cuantitativamente"
+        ],
+        "respuestaCorrecta": "Nivel 4: Gestionado Cuantitativamente",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 184,
+        "pregunta": "El área de proceso que define y se enfoca en el proceso organizativo y la capacitación se enfoca en",
+        "opciones": [
+          "mejora continua del proceso",
+          "proceso de estandarización",
+          "gestión básica de proyectos",
+          "gestión cuantitativa"
+        ],
+        "respuestaCorrecta": "proceso de estandarización",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 185,
+        "pregunta": "El modelo CCMI que describe un proceso en dos dimensiones es",
+        "opciones": [
+          "modelo continuo",
+          "modelo discreto",
+          "modelo en escena",
+          "modelo estable"
+        ],
+        "respuestaCorrecta": "modelo continuo",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 186,
+        "pregunta": "El área de proceso que define y se centra en el proceso organizativo y la capacitación está presente en el nivel de",
+        "opciones": [
+          "optimizando",
+          "definido",
+          "realizado",
+          "manejado"
+        ],
+        "respuestaCorrecta": "definido",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 187,
+        "pregunta": "CMMI define la planificación del proyecto para la categoría",
+        "opciones": [
+          "gestión de proyectos",
+          "tecnologías de la información",
+          "gestión de acuerdos con proveedores",
+          "gestión de riesgos"
+        ],
+        "respuestaCorrecta": "gestión de proyectos",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 188,
+        "pregunta": "El modelo de proceso CMMI puede ser representado por",
+        "opciones": [
+          "solo una manera",
+          "dos caminos",
+          "tres maneras",
+          "cuatro formas"
+        ],
+        "respuestaCorrecta": "dos caminos",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 189,
+        "pregunta": "CMMI significa",
+        "opciones": [
+          "Capacidad de madurez Integración de fusión",
+          "Integración del modelo de madurez consumida",
+          "Capacidad de integración del modelo de madurez",
+          "Incremento del modelo de madurez de la capacidad"
+        ],
+        "respuestaCorrecta": "Capacidad de integración del modelo de madurez",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 190,
+        "pregunta": "En el ciclo de planear-hacer-verificar-actuar, el establecimiento de objetivos de proceso, actividades y tareas necesarias para lograr un software de alta calidad se logra de",
+        "opciones": [
+          "Plan",
+          "hacer",
+          "comprobar",
+          "acto"
+        ],
+        "respuestaCorrecta": "Plan",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 191,
+        "pregunta": "Las métricas de cohesión y las métricas de acoplamiento son métricas en qué nivel de diseño?",
+        "opciones": [
+          "Diseño de interfaz de usuario",
+          "Diseño basado en patrones",
+          "Diseño arquitectonico",
+          "Diseño a nivel de componente"
+        ],
+        "respuestaCorrecta": "Diseño a nivel de componente",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 192,
+        "pregunta": "Cuando los elementos del módulo se agrupan y se ejecutan secuencialmente para realizar una tarea, se llama",
+        "opciones": [
+          "Cohesión procesal",
+          "Cohesión logica",
+          "Cohesión emporal",
+          "Cohesión incidental"
+        ],
+        "respuestaCorrecta": "Cohesión procesal",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 193,
+        "pregunta": "¿Qué acoplamiento también se conoce como 'acoplamiento global'?",
+        "opciones": [
+          "Acoplamiento de contenido",
+          "Acoplamiento de sello",
+          "Acoplamiento de datos",
+          "Acoplamiento común"
+        ],
+        "respuestaCorrecta": "Acoplamiento común",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 194,
+        "pregunta": "¿Cuál es la secuencia detallada de pasos que describe la interacción entre el usuario y la aplicación?",
+        "opciones": [
+          "Guiones de escenarios",
+          "Clases de apoyo",
+          "Clases claves",
+          "Subsistemas"
+        ],
+        "respuestaCorrecta": "Guiones de escenarios",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 195,
+        "pregunta": "¿Qué clases representan almacenes de datos (por ejemplo, una base de datos) que persistirán más allá de la ejecución del software?",
+        "opciones": [
+          "Clases de proceso",
+          "Clases de sistema",
+          "Clases persistentes",
+          "Clases de interfaz de usuario"
+        ],
+        "respuestaCorrecta": "Clases persistentes",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 196,
+        "pregunta": "Abrevia el término CMMI.",
+        "opciones": [
+          "Capacidad de integración del modelo de madurez",
+          "Integración de madurez modelo de capacidad",
+          "Instrucciones del modelo de madurez de la capacidad",
+          "Modelo de capacidad Instrucciones de madurez"
+        ],
+        "respuestaCorrecta": "Capacidad de integración del modelo de madurez",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 197,
+        "pregunta": "La agrupación de todos los elementos relacionados funcionalmente se conoce como",
+        "opciones": [
+          "Cohesión",
+          "Acoplamiento",
+          "Tanto A y B",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Cohesión",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 198,
+        "pregunta": "La cohesión es una indicación cualitativa del grado en que un módulo",
+        "opciones": [
+          "Se puede escribir de forma más compacta.",
+          "Se centra en una sola cosa.",
+          "Es capaz de completar su función de manera oportuna.",
+          "Está conectado a otros módulos y al mundo exterior."
+        ],
+        "respuestaCorrecta": "Se centra en una sola cosa.",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 199,
+        "pregunta": "El acoplamiento es una indicación cualitativa del grado en que un módulo",
+        "opciones": [
+          "Se puede escribir de forma más compacta.",
+          "Se centra en una sola cosa.",
+          "Es capaz de completar su función de manera oportuna.",
+          "Está conectado a otros módulos y al mundo exterior."
+        ],
+        "respuestaCorrecta": "Está conectado a otros módulos y al mundo exterior.",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 200,
+        "pregunta": "Los paquetes de Java y las subrutinas de FORTRAN son ejemplos de",
+        "opciones": [
+          "Funciones",
+          "Módulos",
+          "Las clases",
+          "Sub procedimientos"
+        ],
+        "respuestaCorrecta": "Módulos",
+        "categoria": "Segunda Práctica"
+      },
+      {
+        "id": 201,
+        "pregunta": "Cuando los elementos del módulo se agrupan porque la salida de un elemento sirve como entrada a otro y así sucesivamente, se llama",
+        "opciones": [
+          "Cohesión funcional",
+          "Cohesión secuencial",
+          "Cohesión comunicacional",
+          "Cohesión procesal"
+        ],
+        "respuestaCorrecta": "Cohesión secuencial",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 202,
+        "pregunta": "A partir de lo siguiente, ¿qué método se adoptará en el proceso de reutilización?",
+        "opciones": [
+          "Ya sea manteniendo los mismos requisitos y ajustando los componentes.",
+          "Manteniendo los mismos componentes y modificando los requisitos.",
+          "Tanto a como B",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Tanto a como B",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 203,
+        "pregunta": "¿Qué herramientas se utilizan para representar los componentes del sistema, los datos y el flujo de control entre varios componentes de software y una estructura del sistema en forma gráfica?",
+        "opciones": [
+          "Herramientas de modelado de procesos",
+          "Herramientas de gestion de proyectos",
+          "Herramientas de diagrama",
+          "Herramientas de documentacion"
+        ],
+        "respuestaCorrecta": "Herramientas de diagrama",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 204,
+        "pregunta": "El diccionario de datos contiene descripciones de cada softwad.",
+        "opciones": [
+          "Elemento de control",
+          "Objeto de datos",
+          "Diagrama",
+          "Tanto a como B"
+        ],
+        "respuestaCorrecta": "Tanto a como B",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 205,
+        "pregunta": "¿Cuál de estos no es un elemento de un modelo de análisis orientado a objetos?",
+        "opciones": [
+          "Elementos de comportamiento",
+          "Elementos basados en la clase",
+          "Elementos de datos",
+          "Elementos basados en escenarios"
+        ],
+        "respuestaCorrecta": "Elementos de datos",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 206,
+        "pregunta": "El polimorfismo reduce el esfuerzo requerido para extender un sistema de objetos en",
+        "opciones": [
+          "Acoplamiento de objetos más apretados.",
+          "Habilitando varias operaciones diferentes para compartir el mismo nombre.",
+          "Haciendo los objetos más dependientes unos de otros.",
+          "Eliminando las barreras impuestas por la encapsulación."
+        ],
+        "respuestaCorrecta": "Habilitando varias operaciones diferentes para compartir el mismo nombre.",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 207,
+        "pregunta": "Cuando el flujo general en un segmento de un diagrama de flujo de datos es en gran parte secuencial y sigue caminos de línea recta, está presente.",
+        "opciones": [
+          "Acoplamiento bajo",
+          "Buena modularidad",
+          "Flujo de transacciones",
+          "Flujo de transformación"
+        ],
+        "respuestaCorrecta": "Flujo de transformación",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 208,
+        "pregunta": "Cuando un solo elemento que activa otro flujo de datos a lo largo de una de las muchas rutas de un diagrama de flujo de datos, caracteriza el flujo de información.",
+        "opciones": [
+          "Acoplamiento alto",
+          "Pobre modularidad",
+          "Flujo de transacciones",
+          "Flujo de transformación"
+        ],
+        "respuestaCorrecta": "Flujo de transacciones",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 209,
+        "pregunta": "En el mapeo de transacciones, la factorización de primer nivel da como resultado el",
+        "opciones": [
+          "Creación de un CFD",
+          "Derivación de la jerarquía de control.",
+          "Distribución de módulos de trabajo.",
+          "Refinamiento de la vista del módulo"
+        ],
+        "respuestaCorrecta": "Derivación de la jerarquía de control.",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 210,
+        "pregunta": "Una aplicación exitosa de la transformación o la asignación de transacciones para crear un diseño arquitectónico se complementa con",
+        "opciones": [
+          "Diagramas de relaciones de entidades",
+          "Descripciones de la interfaz del módulo",
+          "Procesamiento de narrativas para cada módulo.",
+          "Tanto a como B"
+        ],
+        "respuestaCorrecta": "Tanto a como B",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 211,
+        "pregunta": "¿Qué modelo de amplificación de defectos se utiliza para ilustrar la generación y detección de errores durante los pasos preliminares de un proceso de ingeniería de software?",
+        "opciones": [
+          "Diseño",
+          "Diseño detallado",
+          "Codificación",
+          "Todo lo mencionado anteriormente"
+        ],
+        "respuestaCorrecta": "Todo lo mencionado anteriormente",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 212,
+        "pregunta": "¿Qué método se usa para evaluar la expresión que pasa la función como un argumento?",
+        "opciones": [
+          "Evaluación estricta",
+          "Recursión",
+          "Cálculo",
+          "Funciones puras"
+        ],
+        "respuestaCorrecta": "Evaluación estricta",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 213,
+        "pregunta": "La organización puede tener inspección interna, la participación directa de los usuarios y el lanzamiento de la versión beta son algunos de ellos y también incluye facilidad de uso, compatibilidad, aceptación del usuario, etc.",
+        "opciones": [
+          "Análisis de tareas",
+          "Recopilación de requisitos de GUI",
+          "Diseño e implementación de GUI",
+          "Pruebas"
+        ],
+        "respuestaCorrecta": "Pruebas",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 214,
+        "pregunta": "¿Qué prueba es la re-ejecución de algún subconjunto de pruebas que ya se han realizado para garantizar los cambios que no se propagan?",
+        "opciones": [
+          "Examen de la unidad",
+          "Pruebas de regresión",
+          "Pruebas de integración",
+          "Pruebas basadas en hilos"
+        ],
+        "respuestaCorrecta": "Pruebas de regresión",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 215,
+        "pregunta": "¿Cuál de estos pertenece a las pruebas de integración en el contexto OO?",
+        "opciones": [
+          "Examen de la unidad",
+          "Pruebas de regresión",
+          "Prueba de sándwich",
+          "Pruebas basadas en hilos"
+        ],
+        "respuestaCorrecta": "Pruebas basadas en hilos",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 216,
+        "pregunta": "Durante las pruebas de seguridad, el probador desempeña el papel de la persona que desea.",
+        "opciones": [
+          "Penetra el sistema",
+          "Penetra el oyente",
+          "Tanto a como B",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Penetra el sistema",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 217,
+        "pregunta": "¿Qué caja especifica el comportamiento de un sistema o una parte de un sistema?",
+        "opciones": [
+          "Caja de estado",
+          "Caja clara",
+          "Caja negra",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Caja negra",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 218,
+        "pregunta": "Cuanto más tiempo existe una falla en el software",
+        "opciones": [
+          "Cuanto más tediosa se vuelve su eliminación",
+          "Cuanto más costoso es detectar y corregir.",
+          "Es menos probable que se corrija adecuadamente.",
+          "Todos los mencionados"
+        ],
+        "respuestaCorrecta": "Todos los mencionados",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 219,
+        "pregunta": "¿Qué condición define las circunstancias para que una operación en particular sea válida?",
+        "opciones": [
+          "Postcondición",
+          "Condición previa",
+          "Invariante",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Condición previa",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 220,
+        "pregunta": "¿Cuál no es una actividad de SQA?",
+        "opciones": [
+          "Prueba de caja negra",
+          "Prueba de caja blanca",
+          "Pruebas de integración",
+          "Examen de la unidad"
+        ],
+        "respuestaCorrecta": "Prueba de caja blanca",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 221,
+        "pregunta": "La prueba unitaria se realiza por",
+        "opciones": [
+          "Usuarios",
+          "Desarrolladores",
+          "Clientes",
+          "Ninguno de los mencionados"
+        ],
+        "respuestaCorrecta": "Desarrolladores",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 222,
+        "pregunta": "Las pruebas de comportamiento son",
+        "opciones": [
+          "Prueba de caja blanca",
+          "Prueba de caja negra",
+          "Prueba de caja gris",
+          "Ninguno de los mencionados"
+        ],
+        "respuestaCorrecta": "Prueba de caja negra",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 223,
+        "pregunta": "¿Cuál de las siguientes es una prueba de caja negra?",
+        "opciones": [
+          "Prueba de ruta básica",
+          "Análisis del valor límite",
+          "Análisis de ruta de código",
+          "Ninguno de los mencionados"
+        ],
+        "respuestaCorrecta": "Análisis del valor límite",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 224,
+        "pregunta": "¿Cuál de los siguientes no se usa para medir el tamaño del software?",
+        "opciones": [
+          "KLOC",
+          "Puntos de función",
+          "Tamaño del módulo",
+          "Ninguno de los mencionados"
+        ],
+        "respuestaCorrecta": "Tamaño del módulo",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 225,
+        "pregunta": "La depuración de software es un conjunto de actividades que se pueden planificar por adelantado y realizar de manera sistemática.",
+        "opciones": [
+          "Cierto",
+          "Falso",
+          "No puedo decir",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Falso",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 226,
+        "pregunta": "¿Cuál de los siguientes no es un software que prueba características genéricas?",
+        "opciones": [
+          "Diferentes técnicas de prueba son apropiadas en diferentes puntos en el tiempo.",
+          "La prueba es realizada por el desarrollador del software o un grupo de prueba independiente",
+          "Las pruebas y la depuración son actividades diferentes, pero la depuración debe incluirse en cualquier estrategia de prueba.",
+          "Ninguno de los mencionados"
+        ],
+        "respuestaCorrecta": "Diferentes técnicas de prueba son apropiadas en diferentes puntos en el tiempo.",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 227,
+        "pregunta": "ITG significa",
+        "opciones": [
+          "grupo de prueba instantánea",
+          "grupo de pruebas de integración",
+          "grupo de prueba individual",
+          "grupo de prueba independiente"
+        ],
+        "respuestaCorrecta": "grupo de prueba independiente",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 228,
+        "pregunta": "Al recopilar durante las pruebas de software, es posible desarrollar pautas significativas para detener el proceso de prueba.",
+        "opciones": [
+          "Intensidad de falla",
+          "Tiempo de prueba",
+          "Métrica",
+          "Todos los mencionados"
+        ],
+        "respuestaCorrecta": "Métrica",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 229,
+        "pregunta": "¿Cuál de los siguientes problemas debe abordarse para implementar una estrategia de prueba de software exitosa?",
+        "opciones": [
+          "Utilice revisiones técnicas formales efectivas como filtro antes de la prueba",
+          "Desarrolle un plan de pruebas que haga hincapié en las 'pruebas de ciclo rápido'.",
+          "Objetivos de las pruebas estatales explícitamente",
+          "Todos los mencionados"
+        ],
+        "respuestaCorrecta": "Todos los mencionados",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 230,
+        "pregunta": "Los casos de prueba deberían descubrir errores como",
+        "opciones": [
+          "Terminación de bucle inexistente",
+          "Comparación de diferentes tipos de datos",
+          "Operadores lógicos incorrectos o precedencia",
+          "Todos los mencionados"
+        ],
+        "respuestaCorrecta": "Terminación de bucle inexistente",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 231,
+        "pregunta": "La codificación y las pruebas se realizan de la siguiente manera:",
+        "opciones": [
+          "Ad hoc",
+          "Payaso",
+          "De abajo hacia arriba",
+          "Corte transversal"
+        ],
+        "respuestaCorrecta": "Corte transversal",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 232,
+        "pregunta": "La principal diferencia entre la prueba del programa y la prueba del sistema es",
+        "opciones": [
+          "La prueba del sistema es difícil y la prueba del programa es fácil",
+          "Las pruebas del programa son más completas que las pruebas del sistema",
+          "Las pruebas del sistema se enfocan en probar las interfaces entre programas, las pruebas de programas se enfocan en programas individuales",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Las pruebas del sistema se enfocan en probar las interfaces entre programas, las pruebas de programas se enfocan en programas individuales",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 233,
+        "pregunta": "El diccionario de datos de wrt de comprobación cruzada se refiere a",
+        "opciones": [
+          "El hallazgo de que no hay incoherencia se cita en un archivo de texto y, por lo tanto, la referencia aparece en el archivo de referencia",
+          "Enlace de documentos a través de hipertexto, en caso de que el sistema se ocupe de la imagen del documento.",
+          "Determinación de dónde se utilizan los datos en el sistema.",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "El hallazgo de que no hay incoherencia se cita en un archivo de texto y, por lo tanto, la referencia aparece en el archivo de referencia",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 234,
+        "pregunta": "En ejecución paralela de pruebas de s / w",
+        "opciones": [
+          "Ejecución solo informatizada",
+          "Sólo se ejecuta el sistema físico",
+          "Tanto el sistema físico como el computarizado funcionan simultáneamente.",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Tanto el sistema físico como el computarizado funcionan simultáneamente.",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 235,
+        "pregunta": "El costo de la corrección de errores es de al menos",
+        "opciones": [
+          "Etapa de diseño",
+          "Etapa de desarrollo",
+          "Etapa de implementación",
+          "Etapa de análisis de requerimientos"
+        ],
+        "respuestaCorrecta": "Etapa de análisis de requerimientos",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 236,
+        "pregunta": "Variación en la depuración: se ha informado que la capacidad de codificación es",
+        "opciones": [
+          "1: 1",
+          "1: 3",
+          "1: 7",
+          "1:10"
+        ],
+        "respuestaCorrecta": "1:10",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 237,
+        "pregunta": "En casos extremos, la variación de la codificación: se ha informado que la capacidad de depuración de los programadores es",
+        "opciones": [
+          "1: 2",
+          "1: 6",
+          "1:15",
+          "1:29"
+        ],
+        "respuestaCorrecta": "1: 2",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 238,
+        "pregunta": "Una sola entrada, una única salida se contrae con if, while, enunciados de secuencia y compuesto en C y simula",
+        "opciones": [
+          "un hipercomputador",
+          "una máquina de tornear",
+          "solo autómatas finitos",
+          "sólo un autómata de empuje hacia abajo"
+        ],
+        "respuestaCorrecta": "sólo un autómata de empuje hacia abajo",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 239,
+        "pregunta": "Forma la especificación detallada del diseño. Si la codificación se realiza en C ++: C: ensamblador, los tamaños de código resultantes estarán en el promedio",
+        "opciones": [
+          "1: 3: 4",
+          "10: 3: 1",
+          "1: 3: 10",
+          "1: 10: 100"
+        ],
+        "respuestaCorrecta": "1: 10: 100",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 240,
+        "pregunta": "Probando un programa a fondo",
+        "opciones": [
+          "Sólo se encontrarán algunos errores.",
+          "Garantiza que todos los defectos serán encontrados.",
+          "Garantiza que todos los errores serán encontrados.",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Sólo se encontrarán algunos errores.",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 241,
+        "pregunta": "La gestión de proyectos de software consta de una serie de actividades, que contienen.",
+        "opciones": [
+          "Planificación de proyectos",
+          "Gestión del alcance",
+          "Estimación del proyecto",
+          "Todo lo mencionado anteriormente"
+        ],
+        "respuestaCorrecta": "Todo lo mencionado anteriormente",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 242,
+        "pregunta": "La gestión eficaz de proyectos de software se centra en las cuatro P's. ¿Cuáles son esas cuatro p?",
+        "opciones": [
+          "Personas, rendimiento, pago, producto.",
+          "Personas, producto, proceso, proyecto.",
+          "Personas, producto, performance, proyecto.",
+          "Todas las anteriores"
+        ],
+        "respuestaCorrecta": "Personas, producto, proceso, proyecto.",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 243,
+        "pregunta": "Dar los factores del mundo real que afectan el costo de mantenimiento.",
+        "opciones": [
+          "A medida que la tecnología avanza, resulta costoso mantener el software antiguo.",
+          "La edad estándar de cualquier software se considera hasta 10 a 15 años.",
+          "La mayoría de los ingenieros de mantenimiento son novatos y utilizan el método de prueba y error para corregir el problema.",
+          "Todo lo mencionado anteriormente"
+        ],
+        "respuestaCorrecta": "Todo lo mencionado anteriormente",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 244,
+        "pregunta": "¿Qué factores finales del software afectan el costo de mantenimiento?",
+        "opciones": [
+          "Estructura del programa de software",
+          "Lenguaje de programación",
+          "Dependencia del entorno externo.",
+          "Todo lo mencionado anteriormente"
+        ],
+        "respuestaCorrecta": "Todo lo mencionado anteriormente",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 245,
+        "pregunta": "La naturaleza siempre creciente y adaptable del software depende en gran medida del entorno en el que el usuario trabaja en.",
+        "opciones": [
+          "Costo",
+          "Naturaleza dinámica",
+          "Gestión de la calidad",
+          "Escalabilidad"
+        ],
+        "respuestaCorrecta": "Naturaleza dinámica",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 246,
+        "pregunta": "Cuando el cliente puede solicitar nuevas características o funciones en el software, ¿qué significa en el mantenimiento del software?",
+        "opciones": [
+          "Modificaciones de host",
+          "Requisitos del cliente",
+          "Condiciones de mercado",
+          "Cambios organizativos"
+        ],
+        "respuestaCorrecta": "Requisitos del cliente",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 247,
+        "pregunta": "¿Qué se utiliza para implementar los cambios en los requisitos nuevos o existentes del usuario en el mantenimiento del software?",
+        "opciones": [
+          "Mantenimiento preventivo",
+          "Mantenimiento perfecto",
+          "Mantenimiento correctivo",
+          "Mantenimiento adaptativo"
+        ],
+        "respuestaCorrecta": "Mantenimiento perfecto",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 248,
+        "pregunta": "Lehman dio ocho leyes para la evolución del software y dividió el software en tres categorías. En qué categoría funciona el software estrictamente de acuerdo con las especificaciones y soluciones definidas.",
+        "opciones": [
+          "Tipo estático",
+          "Tipo incrustado",
+          "Tipo practico",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Tipo incrustado",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 249,
+        "pregunta": "¿Qué herramientas se utilizan en la implementación, prueba y mantenimiento?",
+        "opciones": [
+          "Herramientas mayúsculas",
+          "Herramientas de caja integradas",
+          "Herramientas de caja baja",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Herramientas de caja baja",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 250,
+        "pregunta": "La gestión de proyectos de software es el proceso de gestión de todas las actividades que están involucradas en el desarrollo de software, son.",
+        "opciones": [
+          "Hora",
+          "Costo",
+          "Gestión de la calidad",
+          "Todo lo mencionado anteriormente"
+        ],
+        "respuestaCorrecta": "Todo lo mencionado anteriormente",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 251,
+        "pregunta": "Las técnicas que permiten que un ingeniero de software entienda cómo se completa un proceso de trabajo cuando se incluye a varias personas, se llama.",
+        "opciones": [
+          "Análisis de flujo de trabajo",
+          "No rastrea riesgos potenciales",
+          "Cubre las áreas problemáticas antes de que se vuelvan críticas.",
+          "No ajusta el flujo de trabajo ni las tareas."
+        ],
+        "respuestaCorrecta": "Análisis de flujo de trabajo",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 252,
+        "pregunta": "¿Cuál de los siguientes proporciona soporte semiautomático y automático a los métodos en una tecnología de capas?",
+        "opciones": [
+          "Métodos",
+          "Herramientas",
+          "Proceso",
+          "Enfoque de calidad"
+        ],
+        "respuestaCorrecta": "Herramientas",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 253,
+        "pregunta": "Si el proceso del software no estuviera basado en conceptos científicos y de ingeniería, sería más fácil recrear un nuevo software que escalar uno existente, se conoce como.",
+        "opciones": [
+          "Costo",
+          "Gestión dinámica",
+          "Software grande",
+          "Escalabilidad"
+        ],
+        "respuestaCorrecta": "Escalabilidad",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 254,
+        "pregunta": "¿Cuáles de las siguientes son razones válidas para recopilar los comentarios de los clientes sobre el software entregado?",
+        "opciones": [
+          "Permite a los desarrolladores realizar cambios en el incremento entregado",
+          "El horario de entrega puede ser revisado para reflejar los cambios",
+          "Los desarrolladores pueden identificar cambios para incorporar en el siguiente incremento",
+          "Todas las anteriores"
+        ],
+        "respuestaCorrecta": "Todas las anteriores",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 255,
+        "pregunta": "¿Cuál de los siguientes puede ser elementos de sistemas basados en computadora?",
+        "opciones": [
+          "Documentación",
+          "Software",
+          "Gente",
+          "Todas las anteriores"
+        ],
+        "respuestaCorrecta": "Todas las anteriores",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 256,
+        "pregunta": "¿Cuál de los siguientes no es el objetivo de la gestión del proyecto?",
+        "opciones": [
+          "Mantener los costos generales dentro del presupuesto",
+          "Entrega del software al cliente a la hora acordada.",
+          "Mantener un equipo de desarrollo feliz y que funcione bien.",
+          "Evitar las quejas de los clientes."
+        ],
+        "respuestaCorrecta": "Evitar las quejas de los clientes.",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 257,
+        "pregunta": "Los gerentes de proyectos tienen que evaluar los riesgos que pueden afectar un proyecto.",
+        "opciones": [
+          "Cierto",
+          "Falso",
+          "No puedo decir",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Falso",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 258,
+        "pregunta": "¿Cuál de los siguientes no se considera un riesgo en la gestión de proyectos?",
+        "opciones": [
+          "Retrasos en las especificaciones",
+          "Concurso de productos",
+          "Pruebas",
+          "Rotación de personal"
+        ],
+        "respuestaCorrecta": "Pruebas",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 259,
+        "pregunta": "El proceso que sigue cada gerente durante la vida de un proyecto se conoce como.",
+        "opciones": [
+          "Gestión de proyectos",
+          "Ciclo de vida del gerente",
+          "Gestión del proyecto Ciclo de vida",
+          "Todos los mencionados"
+        ],
+        "respuestaCorrecta": "Gestión del proyecto Ciclo de vida",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 260,
+        "pregunta": "Se considera como riesgo un 66.6%.",
+        "opciones": [
+          "Muy bajo",
+          "Bajo",
+          "Moderado",
+          "Alto"
+        ],
+        "respuestaCorrecta": "Alto",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 261,
+        "pregunta": "¿Qué técnica es aplicable cuando se han completado otros proyectos en el mismo dominio de aplicación de analogía?",
+        "opciones": [
+          "Modelado algorítmico de costos",
+          "Opinión de expertos",
+          "Estimación por analogía",
+          "Ley de Parkinson"
+        ],
+        "respuestaCorrecta": "Estimación por analogía",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 262,
+        "pregunta": "¿Qué modelo asume que los sistemas se crean a partir de componentes reutilizables, secuencias de comandos o programación de bases de datos?",
+        "opciones": [
+          "Un modelo de aplicación-composición.",
+          "Un modelo post-arquitectura.",
+          "Un modelo de reutilización.",
+          "Un modelo de diseño temprano."
+        ],
+        "respuestaCorrecta": "Un modelo de aplicación-composición.",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 263,
+        "pregunta": "¿Cuál de los siguientes estados en que el trabajo se expande para llenar el tiempo disponible?",
+        "opciones": [
+          "Herramientas de caja",
+          "Precios para ganar",
+          "Ley de Parkinson",
+          "Opinión de expertos"
+        ],
+        "respuestaCorrecta": "Ley de Parkinson",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 264,
+        "pregunta": "¿Qué modelo se usa en las primeras etapas del diseño del sistema después de que se hayan establecido los requisitos?",
+        "opciones": [
+          "Un modelo de aplicación-composición.",
+          "Un modelo post-arquitectura.",
+          "Un modelo de reutilización.",
+          "Un modelo de diseño temprano."
+        ],
+        "respuestaCorrecta": "Un modelo de diseño temprano.",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 265,
+        "pregunta": "¿Qué modelo se usa para calcular el esfuerzo requerido para integrar componentes reutilizables o código de programa que se genera automáticamente mediante el diseño o las herramientas de traducción de programas?",
+        "opciones": [
+          "Un modelo de aplicación-composición.",
+          "Un modelo post-arquitectura.",
+          "Un modelo de reutilización.",
+          "Un modelo de diseño temprano."
+        ],
+        "respuestaCorrecta": "Un modelo de reutilización.",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 266,
+        "pregunta": "El modelo COCOMO tiene en cuenta diferentes enfoques para el desarrollo de software, la reutilización, etc.",
+        "opciones": [
+          "Cierto",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Falso",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 267,
+        "pregunta": "¿Cuál de los siguientes utiliza fórmulas derivadas empíricamente para predecir el esfuerzo en función de LOC o FP?",
+        "opciones": [
+          "Estimación basada en FP",
+          "Estimación basada en el proceso",
+          "COCOMO",
+          "Tanto la estimación basada en FP como COCOMO"
+        ],
+        "respuestaCorrecta": "Tanto la estimación basada en FP como COCOMO",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 268,
+        "pregunta": "Los datos empíricos que respaldan la mayoría de los modelos de estimación se derivan de una amplia muestra de proyectos.",
+        "opciones": [
+          "Cierto",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Falso",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 269,
+        "pregunta": "¿Qué versión de COCOMO establece que una vez que los requisitos se han estabilizado, se ha establecido la arquitectura básica del software?",
+        "opciones": [
+          "Modelo de etapa de diseño temprano",
+          "Modelo post-arquitectura-escenario",
+          "Modelo de composición de la aplicación",
+          "Todos los mencionados"
+        ],
+        "respuestaCorrecta": "Modelo de etapa de diseño temprano",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 270,
+        "pregunta": "¿Qué modelo se usó durante las primeras etapas de la ingeniería de software, cuando la creación de un prototipo de las interfaces de usuario, la consideración del software y la interacción del sistema, la evaluación del rendimiento y la evaluación de la madurez de la tecnología fueron primordiales?",
+        "opciones": [
+          "Modelo de etapa de diseño temprano",
+          "Modelo post-arquitectura-escenario",
+          "Modelo de composición de la aplicación",
+          "Todos los mencionados"
+        ],
+        "respuestaCorrecta": "Modelo de composición de la aplicación",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 271,
+        "pregunta": "¿Qué factores afectan las consecuencias probables si se produce un riesgo?",
+        "opciones": [
+          "Evitación de riesgo",
+          "Monitoreo de riesgos",
+          "Tiempo de riesgo",
+          "Planificación de contingencias"
+        ],
+        "respuestaCorrecta": "Evitación de riesgo",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 272,
+        "pregunta": "La rotación de personal, la mala comunicación con el cliente son riesgos que se extrapolan de la experiencia pasada y se llaman",
+        "opciones": [
+          "Riesgos de negocio",
+          "Riesgos predecibles",
+          "Riesgos del proyecto",
+          "Riesgos técnicos"
+        ],
+        "respuestaCorrecta": "Riesgos predecibles",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 273,
+        "pregunta": "¿Qué riesgo da el grado de incertidumbre y se mantendrá el cronograma del proyecto para que el producto se entregue a tiempo?",
+        "opciones": [
+          "Riesgo del negocio",
+          "Riesgo técnico",
+          "Riesgo de horario",
+          "Riesgo del proyecto"
+        ],
+        "respuestaCorrecta": "Riesgo de horario",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 274,
+        "pregunta": "¿En qué modelo se considera el factor de riesgo del proyecto?",
+        "opciones": [
+          "Modelo espiral",
+          "Modelo de cascada",
+          "Modelo de prototipado",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Modelo espiral",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 275,
+        "pregunta": "De lo siguiente se dan tres categorías principales de riesgo,\n\n1) Horario de riesgo\n2) Riesgo de proyecto\n3) Riesgo técnico\n4) Riesgo de negocio",
+        "opciones": [
+          "1, 2 y 3",
+          "2, 3 y 4",
+          "1, 2 y 4",
+          "1, 3 y 4"
+        ],
+        "respuestaCorrecta": "2, 3 y 4",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 276,
+        "pregunta": "En el proceso de gestión de riesgos, ¿qué hace una nota de todos los riesgos posibles que pueden ocurrir en el proyecto?",
+        "opciones": [
+          "Gestionar",
+          "Monitor",
+          "Clasificar por categorías",
+          "Identificación"
+        ],
+        "respuestaCorrecta": "Identificación",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 277,
+        "pregunta": "¿Qué riesgos identifican los posibles problemas de diseño, implementación, interfaz, verificación y mantenimiento?",
+        "opciones": [
+          "Riesgo del proyecto",
+          "Riesgo del negocio",
+          "Riesgo técnico",
+          "Riesgo de horario"
+        ],
+        "respuestaCorrecta": "Riesgo técnico",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 278,
+        "pregunta": "Construir un producto o sistema excelente para que nadie realmente quiera un riesgo es una",
+        "opciones": [
+          "Riesgo técnico",
+          "Riesgo de horario",
+          "Riesgo del negocio",
+          "Riesgo de rendimiento"
+        ],
+        "respuestaCorrecta": "Riesgo del negocio",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 279,
+        "pregunta": "¿Cuáles son las características del riesgo del software?",
+        "opciones": [
+          "Incertidumbre",
+          "Pérdida",
+          "Tanto a como B",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Tanto a como B",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 280,
+        "pregunta": "¿Qué todo tiene que ser identificado como por identificación de riesgo?",
+        "opciones": [
+          "Amenazas",
+          "Vulnerabilidades",
+          "Consecuencias",
+          "Todos los mencionados"
+        ],
+        "respuestaCorrecta": "Todos los mencionados",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 281,
+        "pregunta": "¿Cuál no es una actividad de gestión de riesgos?",
+        "opciones": [
+          "Evaluación de riesgos",
+          "Generación de riesgo",
+          "Control de riesgo",
+          "Ninguno de los mencionados"
+        ],
+        "respuestaCorrecta": "Generación de riesgo",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 282,
+        "pregunta": "¿Cuál es el producto de la probabilidad de incurrir en una pérdida debido al riesgo y la magnitud potencial de esa pérdida?",
+        "opciones": [
+          "Riesgo de exposición",
+          "Priorización de riesgos",
+          "Análisis de riesgo",
+          "Todos los mencionados"
+        ],
+        "respuestaCorrecta": "Riesgo de exposición",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 283,
+        "pregunta": "¿Qué amenaza la calidad y la puntualidad del software que se va a producir?",
+        "opciones": [
+          "Riesgos conocidos",
+          "Riesgos de negocio",
+          "Riesgos del proyecto",
+          "Riesgos técnicos"
+        ],
+        "respuestaCorrecta": "Riesgos técnicos",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 284,
+        "pregunta": "¿Qué amenaza la viabilidad del software a construir?",
+        "opciones": [
+          "Riesgos conocidos",
+          "Riesgos de negocio",
+          "Riesgos del proyecto",
+          "Riesgos técnicos"
+        ],
+        "respuestaCorrecta": "Riesgos de negocio",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 285,
+        "pregunta": "¿Cuál de los siguientes no es un riesgo comercial?",
+        "opciones": [
+          "Construyendo un excelente producto o sistema que nadie realmente quiere.",
+          "Perder el apoyo de la alta gerencia debido a un cambio de enfoque o cambio en las personas",
+          "Falta de requisitos documentados o alcance del software.",
+          "Perder presupuesto o compromiso personal"
+        ],
+        "respuestaCorrecta": "Falta de requisitos documentados o alcance del software.",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 286,
+        "pregunta": "¿Cuál de los siguientes es un intento sistemático de especificar amenazas al plan del proyecto?",
+        "opciones": [
+          "Identificación de riesgo",
+          "Riesgo de rendimiento",
+          "Riesgo de apoyo",
+          "Proyección de riesgos"
+        ],
+        "respuestaCorrecta": "Proyección de riesgos",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 287,
+        "pregunta": "¿Qué riesgos están asociados con el tamaño total del software que se creará o modificará?",
+        "opciones": [
+          "Riesgos de impacto empresarial",
+          "Definición de procesos riesgos",
+          "Riesgos del tamaño del producto",
+          "Riesgos del entorno de desarrollo."
+        ],
+        "respuestaCorrecta": "Riesgos del tamaño del producto",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 288,
+        "pregunta": "¿Qué riesgos están asociados con las restricciones impuestas por la administración o el mercado?",
+        "opciones": [
+          "Riesgos de impacto empresarial",
+          "Definición de procesos riesgos",
+          "Riesgos del tamaño del producto",
+          "Riesgos del entorno de desarrollo."
+        ],
+        "respuestaCorrecta": "Riesgos de impacto empresarial",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 289,
+        "pregunta": "¿Cuál de los siguientes términos se define mejor en la declaración: 'el grado de incertidumbre de que el producto cumplirá con sus requisitos y será adecuado para su uso previsto'?",
+        "opciones": [
+          "Riesgo de rendimiento",
+          "Riesgo de costo",
+          "Riesgo de apoyo",
+          "Riesgo de horario"
+        ],
+        "respuestaCorrecta": "Riesgo de rendimiento",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 290,
+        "pregunta": "La gestión de riesgos es uno de los trabajos más importantes para un",
+        "opciones": [
+          "Cliente",
+          "Inversor",
+          "Equipo de producción",
+          "Gerente de proyecto"
+        ],
+        "respuestaCorrecta": "Gerente de proyecto",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 291,
+        "pregunta": "¿Cuál de los siguientes riesgos es la falla de un componente comprado para funcionar como se espera?",
+        "opciones": [
+          "Riesgo de producto",
+          "Riesgo del proyecto",
+          "Riesgo del negocio",
+          "Riesgo de programación"
+        ],
+        "respuestaCorrecta": "Riesgo de producto",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 292,
+        "pregunta": "¿Cuál de los siguientes términos se define mejor en la declaración: ‘Habrá un cambio en la administración de la organización con diferentes prioridades’?",
+        "opciones": [
+          "Rotación de personal",
+          "Cambio tecnológico",
+          "Cambio de gestión",
+          "Concurso de productos"
+        ],
+        "respuestaCorrecta": "Cambio de gestión",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 293,
+        "pregunta": "¿Cuál de los siguientes términos se define mejor en la declaración: 'La tecnología subyacente en la que se construye el sistema está reemplazada por la nueva tecnología'?",
+        "opciones": [
+          "Cambio tecnológico",
+          "Concurso de productos",
+          "Cambio de requisitos",
+          "Ninguno de los mencionados"
+        ],
+        "respuestaCorrecta": "Cambio tecnológico",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 294,
+        "pregunta": "¿Qué evalúa el riesgo y sus planes para la mitigación del riesgo y revíselos cuando sepa más sobre el riesgo?",
+        "opciones": [
+          "Monitoreo de riesgos",
+          "Planificación de riesgos",
+          "Análisis de riesgo",
+          "Identificación de riesgo"
+        ],
+        "respuestaCorrecta": "Monitoreo de riesgos",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 295,
+        "pregunta": "¿Cuál de los siguientes riesgos se deriva del entorno organizacional donde se está desarrollando el software?",
+        "opciones": [
+          "Personas riesgos",
+          "Riesgos tecnológicos",
+          "Riesgos de estimación",
+          "Riesgos organizacionales"
+        ],
+        "respuestaCorrecta": "Riesgos organizacionales",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 296,
+        "pregunta": "¿Cuál de los siguientes riesgos se deriva de las tecnologías de software o hardware que se utilizan para desarrollar el sistema?",
+        "opciones": [
+          "Riesgos gerenciales",
+          "Riesgos tecnológicos",
+          "Riesgos de estimación",
+          "Riesgos organizacionales"
+        ],
+        "respuestaCorrecta": "Riesgos tecnológicos",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 297,
+        "pregunta": "¿Cuál de los siguientes términos se define mejor en la declaración: ‘Derive información de trazabilidad para maximizar la información que se oculta en el diseño’?",
+        "opciones": [
+          "Tiempo de desarrollo subestimado",
+          "Reestructuración organizacional",
+          "Cambios de requisitos",
+          "Ninguno de los mencionados"
+        ],
+        "respuestaCorrecta": "Cambios de requisitos",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 298,
+        "pregunta": "¿Cuál de las siguientes estrategias significa que se reducirá el impacto del riesgo?",
+        "opciones": [
+          "Estrategias de evitación",
+          "Estrategias de minimización",
+          "Planes de Contingencia",
+          "Todos los mencionados"
+        ],
+        "respuestaCorrecta": "Estrategias de minimización",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 299,
+        "pregunta": "La gestión de riesgos ahora se reconoce como una de las tareas de gestión de proyectos más importantes.",
+        "opciones": [
+          "Cierto",
+          "Falso",
+          "No puedo decir",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Cierto",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 300,
+        "pregunta": "Una evaluación del peor daño posible que podría resultar de un peligro particular se conoce como",
+        "opciones": [
+          "Riesgo",
+          "Probabilidad de peligro",
+          "Gravedad del peligro",
+          "Percance"
+        ],
+        "respuestaCorrecta": "Gravedad del peligro",
+        "categoria": "Tercera Práctica"
+      },
+      {
+        "id": 301,
+        "pregunta": "¿Cuál de los siguientes términos es una medida de la probabilidad de que el sistema cause un accidente?",
+        "opciones": [
+          "Riesgo",
+          "Probabilidad de peligro",
+          "Accidente",
+          "Dañar"
+        ],
+        "respuestaCorrecta": "Riesgo",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 302,
+        "pregunta": "Una debilidad en un sistema informático que puede ser explotada para causar pérdidas o daños se conoce como?",
+        "opciones": [
+          "Vulnerabilidad",
+          "Ataque",
+          "Amenaza",
+          "Exposición"
+        ],
+        "respuestaCorrecta": "Vulnerabilidad",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 303,
+        "pregunta": "Un sistema de verificación de contraseñas que no permite contraseñas de usuarios que sean nombres propios o palabras que normalmente se incluyen en un diccionario es un ejemplo de con respecto a los sistemas de seguridad.",
+        "opciones": [
+          "riesgo",
+          "controlar",
+          "ataque",
+          "activo"
+        ],
+        "respuestaCorrecta": "controlar",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 304,
+        "pregunta": "¿Cuántas etapas hay en la especificación de requisitos impulsada por el riesgo?",
+        "opciones": [
+          "Tres",
+          "Cuatro",
+          "Cinco",
+          "Seis"
+        ],
+        "respuestaCorrecta": "Cuatro",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 305,
+        "pregunta": "¿Cómo se define la confiabilidad del software?",
+        "opciones": [
+          "Hora",
+          "Eficiencia",
+          "Calidad",
+          "Velocidad"
+        ],
+        "respuestaCorrecta": "Hora",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 306,
+        "pregunta": "Idoneidad, precisión, interpolabilidad y seguridad: ¿qué tipo de atributo de calidad es ISO 9126?",
+        "opciones": [
+          "Confiabilidad",
+          "Eficiencia",
+          "Funcionalidad",
+          "Usabilidad"
+        ],
+        "respuestaCorrecta": "Funcionalidad",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 307,
+        "pregunta": "El comportamiento del tiempo y el comportamiento de los recursos se encuentran bajo el atributo de calidad de ISO 9126?",
+        "opciones": [
+          "Confiabilidad",
+          "Eficiencia",
+          "Funcionalidad",
+          "Usabilidad"
+        ],
+        "respuestaCorrecta": "Eficiencia",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 308,
+        "pregunta": "NHPP significa",
+        "opciones": [
+          "Producto de Poisson no homogéneo",
+          "Producto de Poisson no heterogéneo",
+          "Proceso de Poisson no heterogéneo",
+          "Proceso de Poisson no homogéneo"
+        ],
+        "respuestaCorrecta": "Proceso de Poisson no homogéneo",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 309,
+        "pregunta": "El modelo CMM es una técnica para",
+        "opciones": [
+          "Mantener automáticamente la fiabilidad del software.",
+          "Mejorar el proceso del software.",
+          "Prueba el software",
+          "Todos los mencionados"
+        ],
+        "respuestaCorrecta": "Mejorar el proceso del software.",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 310,
+        "pregunta": "¿Qué tipo de falla permanece en el sistema por algún tiempo y luego desaparece?",
+        "opciones": [
+          "Permanente",
+          "Transitorio",
+          "Intermitente",
+          "Todos los mencionados"
+        ],
+        "respuestaCorrecta": "Transitorio",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 311,
+        "pregunta": "¿Cuál de los siguientes enfoques se utilizan para lograr sistemas confiables?",
+        "opciones": [
+          "Prevención de fallos",
+          "Eliminación de fallos",
+          "Tolerancia a fallos",
+          "Todos los mencionados"
+        ],
+        "respuestaCorrecta": "Todos los mencionados",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 312,
+        "pregunta": "Se dice que un sistema que mantiene su integridad mientras acepta una interrupción temporal de su funcionamiento se encuentra en un estado de",
+        "opciones": [
+          "Tolerancia total a los fallos",
+          "Degradación elegante",
+          "Fail Soft",
+          "A prueba de fallos"
+        ],
+        "respuestaCorrecta": "A prueba de fallos",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 313,
+        "pregunta": "¿Cuál de las siguientes comprobaciones de detección de errores no forma parte de la detección de aplicaciones?",
+        "opciones": [
+          "Cheques de hardware",
+          "Controles de tiempo",
+          "Verificaciones de reversión",
+          "Controles de codificación"
+        ],
+        "respuestaCorrecta": "Cheques de hardware",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 314,
+        "pregunta": "El manejo de excepciones es un tipo de",
+        "opciones": [
+          "Mecanismo de recuperación de errores hacia adelante",
+          "Mecanismo de recuperación de errores hacia atrás",
+          "Todos los mencionados",
+          "Ninguno de los mencionados"
+        ],
+        "respuestaCorrecta": "Mecanismo de recuperación de errores hacia adelante",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 315,
+        "pregunta": "La no ocurrencia de alteración impropia de la información se conoce como",
+        "opciones": [
+          "Confiabilidad disponible",
+          "Confiabilidad Confidencial",
+          "Confiabilidad mantenible",
+          "Confiabilidad Integral"
+        ],
+        "respuestaCorrecta": "Confiabilidad Integral",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 316,
+        "pregunta": "En la programación de la versión N, que es la generación independiente de N, el valor de N es",
+        "opciones": [
+          "Mayor que 1",
+          "Menos que 1",
+          "Mayor que 2",
+          "Menos de 2"
+        ],
+        "respuestaCorrecta": "Mayor que 2",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 317,
+        "pregunta": "En la tolerancia a fallos basada en registros, los registros de eventos no determinados se guardan y se reproducen en caso de error.",
+        "opciones": [
+          "Cierto",
+          "Falso",
+          "No puedo decir",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Cierto",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 318,
+        "pregunta": "Todas las técnicas tolerantes a fallas se basan en",
+        "opciones": [
+          "Integridad",
+          "Confianza",
+          "Redundancia",
+          "Ninguno de los mencionados"
+        ],
+        "respuestaCorrecta": "Redundancia",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 319,
+        "pregunta": "Es imperativo que los procesos de comunicación alcancen puntos de recuperación consistentes para evitar el efecto, con un mecanismo de recuperación de errores hacia atrás.",
+        "opciones": [
+          "Estático",
+          "Dinámica",
+          "Dominó",
+          "Torbellino"
+        ],
+        "respuestaCorrecta": "Dominó",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 320,
+        "pregunta": "¿Cuál no es un modelo de calidad de software?",
+        "opciones": [
+          "ISO 9000",
+          "Modelo de McCall",
+          "Modelo boehm",
+          "ISO 9126"
+        ],
+        "respuestaCorrecta": "ISO 9000",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 321,
+        "pregunta": "¿Cuántos niveles están presentes en CMM?",
+        "opciones": [
+          "Tres",
+          "Cuatro",
+          "Cinco",
+          "Seis"
+        ],
+        "respuestaCorrecta": "Cinco",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 322,
+        "pregunta": "¿Qué nivel de CMM es para la gestión de procesos?",
+        "opciones": [
+          "Inicial",
+          "Repetible",
+          "Definido",
+          "Optimizando"
+        ],
+        "respuestaCorrecta": "Optimizando",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 323,
+        "pregunta": "En ISO 9126, el comportamiento del tiempo y la utilización de recursos son parte de",
+        "opciones": [
+          "Mantenibilidad",
+          "Portabilidad",
+          "Eficiencia",
+          "Usabilidad"
+        ],
+        "respuestaCorrecta": "Eficiencia",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 324,
+        "pregunta": "¿Cuál de los siguientes no es un modelo probabilístico?",
+        "opciones": [
+          "Error de siembra",
+          "NHPP",
+          "Dominio de entrada",
+          "Métrica del software de Halstead"
+        ],
+        "respuestaCorrecta": "Métrica del software de Halstead",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 325,
+        "pregunta": "La confiabilidad del software se define con respecto a",
+        "opciones": [
+          "Hora",
+          "Loco",
+          "Fallas",
+          "Calidad"
+        ],
+        "respuestaCorrecta": "Hora",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 326,
+        "pregunta": "Failure In Time (FIT) es otra forma de informar",
+        "opciones": [
+          "MTTR",
+          "MTTF",
+          "MTSF",
+          "MTBF"
+        ],
+        "respuestaCorrecta": "MTBF",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 327,
+        "pregunta": "El tiempo medio de reparación (MTTR) es el tiempo necesario para reparar un módulo de hardware defectuoso.",
+        "opciones": [
+          "Cierto",
+          "Falso",
+          "No puedo decir",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Cierto",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 328,
+        "pregunta": "IMC Networks es un fabricante líder y certificado de soluciones de conectividad LAN / WAN para redes ópticas y para empresas, telecomunicaciones y proveedores de servicios.",
+        "opciones": [
+          "Sistemas de telco",
+          "D-Link",
+          "Arista Networks",
+          "ISO 9001"
+        ],
+        "respuestaCorrecta": "Sistemas de telco",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 329,
+        "pregunta": "¿Cuáles son las cualidades de un buen software?",
+        "opciones": [
+          "Portabilidad",
+          "Reusabilidad",
+          "Interoperabilidad",
+          "Todas las anteriores"
+        ],
+        "respuestaCorrecta": "Todas las anteriores",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 330,
+        "pregunta": "La ingeniería de software basada en la reutilización es una estrategia de ingeniería de software donde el proceso de desarrollo está orientado a reutilizar el software existente.",
+        "opciones": [
+          "Cierto",
+          "Falso",
+          "No puedo decir",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Cierto",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 331,
+        "pregunta": "La reutilización del software puede proporcionar beneficios como reducción de costos y mayor rapidez en el desarrollo.",
+        "opciones": [
+          "Cierto",
+          "Falso",
+          "No puedo decir",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Cierto",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 332,
+        "pregunta": "Los componentes reutilizables deben ser completamente independientes y fácilmente integrables con otros sistemas.",
+        "opciones": [
+          "Cierto",
+          "Falso",
+          "No puedo decir",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Cierto",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 333,
+        "pregunta": "El modelo de desarrollo ágil promueve la reutilización del software mediante iteraciones rápidas y la incorporación de feedback constante.",
+        "opciones": [
+          "Cierto",
+          "Falso",
+          "No puedo decir",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Cierto",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 334,
+        "pregunta": "El proceso de reutilización de software debe centrarse solo en el uso de código fuente existente, sin considerar la reutilización de otros artefactos del desarrollo.",
+        "opciones": [
+          "Cierto",
+          "Falso",
+          "No puedo decir",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Falso",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 335,
+        "pregunta": "La ingeniería de software basada en componentes (CBSE) es un enfoque donde se desarrollan sistemas de software a partir de componentes preexistentes.",
+        "opciones": [
+          "Cierto",
+          "Falso",
+          "No puedo decir",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Cierto",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 336,
+        "pregunta": "La reutilización de componentes de software puede mejorar la calidad al reducir los errores comunes en el desarrollo.",
+        "opciones": [
+          "Cierto",
+          "Falso",
+          "No puedo decir",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Cierto",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 337,
+        "pregunta": "La reutilización del software solo se aplica a los componentes, no a las herramientas ni a los procesos.",
+        "opciones": [
+          "Cierto",
+          "Falso",
+          "No puedo decir",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Falso",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 338,
+        "pregunta": "La reutilización de software no tiene impacto significativo en los costos de mantenimiento del sistema.",
+        "opciones": [
+          "Cierto",
+          "Falso",
+          "No puedo decir",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Falso",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 339,
+        "pregunta": "El uso de frameworks o marcos de trabajo es una forma común de reutilización de software en el desarrollo de aplicaciones.",
+        "opciones": [
+          "Cierto",
+          "Falso",
+          "No puedo decir",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Cierto",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 340,
+        "pregunta": "La reutilización de software es más efectiva en entornos de desarrollo donde se utilizan componentes estándares y modulares.",
+        "opciones": [
+          "Cierto",
+          "Falso",
+          "No puedo decir",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Cierto",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 341,
+        "pregunta": "Los componentes reutilizables deben ser diseñados para ser fácilmente configurables y adaptables a diferentes contextos.",
+        "opciones": [
+          "Cierto",
+          "Falso",
+          "No puedo decir",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Cierto",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 342,
+        "pregunta": "Los sistemas que emplean componentes reutilizables son más difíciles de modificar y mantener en comparación con los desarrollados desde cero.",
+        "opciones": [
+          "Cierto",
+          "Falso",
+          "No puedo decir",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Falso",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 343,
+        "pregunta": "La reutilización de software permite a los desarrolladores centrarse más en los aspectos específicos del negocio en lugar de reinventar soluciones comunes.",
+        "opciones": [
+          "Cierto",
+          "Falso",
+          "No puedo decir",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Cierto",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 344,
+        "pregunta": "Un desafío común en la reutilización de software es la dificultad para encontrar componentes adecuados que se ajusten a las necesidades del sistema.",
+        "opciones": [
+          "Cierto",
+          "Falso",
+          "No puedo decir",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Cierto",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 345,
+        "pregunta": "La reutilización de software solo es posible cuando se desarrollan sistemas completamente modulares.",
+        "opciones": [
+          "Cierto",
+          "Falso",
+          "No puedo decir",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Falso",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 346,
+        "pregunta": "El concepto de Software as a Service (SaaS) está relacionado con la reutilización de software a través de la entrega de servicios desde servidores remotos.",
+        "opciones": [
+          "Cierto",
+          "Falso",
+          "No puedo decir",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Cierto",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 347,
+        "pregunta": "Los componentes reutilizables no necesitan ser probados antes de ser integrados en un nuevo sistema.",
+        "opciones": [
+          "Cierto",
+          "Falso",
+          "No puedo decir",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Falso",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 348,
+        "pregunta": "El modelo de componentes de software es una aproximación basada en reutilizar elementos modulares y autónomos para construir aplicaciones más grandes.",
+        "opciones": [
+          "Cierto",
+          "Falso",
+          "No puedo decir",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Cierto",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 349,
+        "pregunta": "Los sistemas de software basados en componentes pueden reducir los costos de desarrollo al evitar la duplicación de esfuerzos en componentes comunes.",
+        "opciones": [
+          "Cierto",
+          "Falso",
+          "No puedo decir",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Cierto",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 350,
+        "pregunta": "El uso de patrones de diseño en la reutilización de software puede facilitar la integración de componentes al estandarizar la estructura del código.",
+        "opciones": [
+          "Cierto",
+          "Falso",
+          "No puedo decir",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Cierto",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 351,
+        "pregunta": "La reutilización de software siempre requiere que los desarrolladores sigan el mismo enfoque de diseño para todas las aplicaciones.",
+        "opciones": [
+          "Cierto",
+          "Falso",
+          "No puedo decir",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Falso",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 352,
+        "pregunta": "Los componentes de software reutilizables deben estar bien documentados para facilitar su uso en diferentes contextos de desarrollo.",
+        "opciones": [
+          "Cierto",
+          "Falso",
+          "No puedo decir",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Cierto",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 353,
+        "pregunta": "La ingeniería de software basada en componentes se enfoca en la creación de software mediante la integración de componentes preexistentes y modulares.",
+        "opciones": [
+          "Cierto",
+          "Falso",
+          "No puedo decir",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Cierto",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 354,
+        "pregunta": "La reutilización de software implica únicamente el uso de código fuente sin considerar otros recursos como documentación o pruebas.",
+        "opciones": [
+          "Cierto",
+          "Falso",
+          "No puedo decir",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Falso",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 355,
+        "pregunta": "El uso de herramientas automáticas para la integración de componentes reutilizables puede aumentar la eficiencia en el desarrollo de software.",
+        "opciones": [
+          "Cierto",
+          "Falso",
+          "No puedo decir",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Cierto",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 356,
+        "pregunta": "La reutilización de software puede ser un desafío cuando los componentes no son fácilmente adaptables o configurables para nuevos contextos.",
+        "opciones": [
+          "Cierto",
+          "Falso",
+          "No puedo decir",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Cierto",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 357,
+        "pregunta": "El uso de software como servicio (SaaS) es un ejemplo de reutilización de software, ya que las aplicaciones se entregan desde un servidor remoto en lugar de instalarse localmente.",
+        "opciones": [
+          "Cierto",
+          "Falso",
+          "No puedo decir",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Cierto",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 358,
+        "pregunta": "Los métodos ágiles promueven la reutilización de software al enfocarse en iteraciones cortas y la adaptación rápida del software a las necesidades cambiantes.",
+        "opciones": [
+          "Cierto",
+          "Falso",
+          "No puedo decir",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Cierto",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 359,
+        "pregunta": "La reutilización de software tiene pocas desventajas, ya que siempre garantiza el éxito del desarrollo de nuevos sistemas.",
+        "opciones": [
+          "Cierto",
+          "Falso",
+          "No puedo decir",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Falso",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 360,
+        "pregunta": "La reutilización de software es más efectiva cuando se integra con prácticas de desarrollo ágil y se utiliza de manera iterativa.",
+        "opciones": [
+          "Cierto",
+          "Falso",
+          "No puedo decir",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Cierto",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 361,
+        "pregunta": "¿Qué arquitecturas descentralizadas de arquitectura en las que no hay clientes y servidores distinguidos?",
+        "opciones": [
+          "Arquitectura cliente-servidor multinivel",
+          "Arquitectura maestro-esclavo",
+          "Arquitectura de componentes distribuidos",
+          "Arquitectura de igual a igual"
+        ],
+        "respuestaCorrecta": "Arquitectura de igual a igual",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 362,
+        "pregunta": "La arquitectura orientada a servicios (SOA) es",
+        "opciones": [
+          "Fuertemente acoplado",
+          "Débilmente acoplado",
+          "Fuertemente cohesivo",
+          "Libremente cohesivo"
+        ],
+        "respuestaCorrecta": "Débilmente acoplado",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 363,
+        "pregunta": "¿Cuál de los siguientes es un principio esencial de una arquitectura?",
+        "opciones": [
+          "Consistencia",
+          "Confiabilidad",
+          "Escalabilidad",
+          "Todos los mencionados"
+        ],
+        "respuestaCorrecta": "Todos los mencionados",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 364,
+        "pregunta": "Organice las siguientes actividades para construir una SOA.",
+        "opciones": [
+          "i, ii, iii, iv",
+          "iii, ii, i, iv",
+          "ii, iii, i, iv",
+          "ii, iii, iv, i"
+        ],
+        "respuestaCorrecta": "ii, iii, i, iv",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 365,
+        "pregunta": "¿En qué se diferencia SOA de la arquitectura OO?",
+        "opciones": [
+          "Fuerte acoplamiento entre objetos",
+          "Las comunicaciones son prescriptivas más que descriptivas.",
+          "Los datos están separados de un servicio o comportamiento.",
+          "Los datos y métodos están integrados en un solo objeto."
+        ],
+        "respuestaCorrecta": "Los datos están separados de un servicio o comportamiento.",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 366,
+        "pregunta": "¿Qué arquitectura se construirá sobre una SOA?",
+        "opciones": [
+          "La arquitectura de la aplicación",
+          "La arquitectura de servicio",
+          "La arquitectura de componentes",
+          "Ninguno de los mencionados"
+        ],
+        "respuestaCorrecta": "La arquitectura de la aplicación",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 367,
+        "pregunta": "¿Cuál de las siguientes utilidades no es parte de Application Service Layer?",
+        "opciones": [
+          "Implementación de políticas",
+          "QoS",
+          "Seguridad",
+          "Verificar factura"
+        ],
+        "respuestaCorrecta": "Verificar factura",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 368,
+        "pregunta": "¿Cuál de las siguientes utilidades no es parte de Business Service Layer?",
+        "opciones": [
+          "Servicio centrado en la tarea.",
+          "Servicios de envoltura",
+          "Obtener información de la cuenta",
+          "Servicio centrado en la entidad"
+        ],
+        "respuestaCorrecta": "Servicios de envoltura",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 369,
+        "pregunta": "¿Podemos construir una arquitectura orientada a servicios (SOA) usando lenguaje orientado a objetos (OO)?",
+        "opciones": [
+          "Cierto",
+          "Falso",
+          "No puedo decir",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Cierto",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 370,
+        "pregunta": "Si detecta un fallo de alimentación al controlar un nivel de voltaje, debe realizar más de una observación para detectar que el voltaje está disminuyendo.",
+        "opciones": [
+          "Cierto",
+          "Falso",
+          "No puedo decir",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Cierto",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 371,
+        "pregunta": "El tiempo de ejecución promedio del proceso del monitor de potencia debe ser inferior a",
+        "opciones": [
+          "1 ms",
+          "10ms",
+          "100ms",
+          "ninguno de los mencionados"
+        ],
+        "respuestaCorrecta": "1 ms",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 372,
+        "pregunta": "¿Cuál de los siguientes diagramas puede ayudar a detectar cortes de puntos?",
+        "opciones": [
+          "Diagrama de clase",
+          "Diagrama de objetos",
+          "Diagrama de secuencia",
+          "Diagrama ER"
+        ],
+        "respuestaCorrecta": "Diagrama de objetos",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 373,
+        "pregunta": "¿Cuál de los siguientes se representa como un aspecto que solicita un nombre de inicio de sesión y una contraseña?",
+        "opciones": [
+          "Clase",
+          "Objeto",
+          "Autenticacion de usuario",
+          "Todos los mencionados"
+        ],
+        "respuestaCorrecta": "Autenticacion de usuario",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 374,
+        "pregunta": "La investigación y el desarrollo en orientación de aspectos se han centrado",
+        "opciones": [
+          "Reingeniería de software",
+          "Programación artificial",
+          "Programación Orientada a Aspectos",
+          "Todos los mencionados"
+        ],
+        "respuestaCorrecta": "Programación Orientada a Aspectos",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 375,
+        "pregunta": "¿Cuál es un principio fundamental en el diseño de software que sugiere dividir un sistema en partes que aborden diferentes preocupaciones o responsabilidades para facilitar su comprensión, desarrollo y mantenimiento?",
+        "opciones": [
+          "Separación de intereses",
+          "Aspectos de escritura",
+          "Encontrar la complejidad del código",
+          "Ninguno de los mencionados"
+        ],
+        "respuestaCorrecta": "Separación de intereses",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 376,
+        "pregunta": "¿Cuál de los siguientes no es un tipo de interés de las partes interesadas?",
+        "opciones": [
+          "Preocupaciones funcionales",
+          "Preocupaciones por la calidad del servicio.",
+          "Preocupación política",
+          "Preocupación no funcional"
+        ],
+        "respuestaCorrecta": "Preocupaciones funcionales",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 377,
+        "pregunta": "¿Cuál de las siguientes preocupaciones se adapta mejor a la siguiente declaración: 'El sistema de banca por Internet incluye nuevos requisitos del cliente, requisitos de cuenta, requisitos de gestión del cliente, requisitos de seguridad, requisitos de recuperación, etc.'?",
+        "opciones": [
+          "Preocupaciones funcionales",
+          "Preocupaciones por la calidad del servicio.",
+          "Preocupaciones del sistema",
+          "Preocupaciones transversales"
+        ],
+        "respuestaCorrecta": "Preocupaciones transversales",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 378,
+        "pregunta": "¿Cuál de las siguientes es la preocupación principal en el sistema de gestión de registros médicos?",
+        "opciones": [
+          "Mantener registros de pacientes",
+          "Diagnóstico y tratamientos",
+          "Consultas",
+          "Todos los mencionados"
+        ],
+        "respuestaCorrecta": "Mantener registros de pacientes",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 379,
+        "pregunta": "Un evento en un programa de ejecución donde el asesoramiento asociado con un aspecto puede ejecutarse se conoce como",
+        "opciones": [
+          "Aspecto",
+          "Punto de unión",
+          "Modelo de punto de unión",
+          "Punto de corte"
+        ],
+        "respuestaCorrecta": "Punto de unión",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 380,
+        "pregunta": "¿Cuál de los siguientes servicios no es proporcionado por un objeto?",
+        "opciones": [
+          "Activar y desactivar objetos",
+          "Características de seguridad",
+          "Archivos que implementan las entidades identificadas dentro del ERD.",
+          "Registro de implementación de objeto."
+        ],
+        "respuestaCorrecta": "Archivos que implementan las entidades identificadas dentro del ERD.",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 381,
+        "pregunta": "¿Cuál de los siguientes términos se define mejor por la declaración: 'Cuando un objeto invoca a otro objeto independiente, se pasa un mensaje entre los dos objetos'?",
+        "opciones": [
+          "Pareja de control",
+          "Objeto de aplicación",
+          "Pareja de datos",
+          "Relación"
+        ],
+        "respuestaCorrecta": "Pareja de control",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 382,
+        "pregunta": "CORBA significa",
+        "opciones": [
+          "Solicitud de objeto común Construir arquitectura",
+          "Arquitectura de agente de solicitud de objetos comunes",
+          "Solicitud de objeto común Break Architecture",
+          "Todos los mencionados"
+        ],
+        "respuestaCorrecta": "Arquitectura de agente de solicitud de objetos comunes",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 383,
+        "pregunta": "¿Qué atributo de la aplicación web está definido por la declaración: 'Un gran número de usuarios pueden acceder a la aplicación web a la vez'?",
+        "opciones": [
+          "Carga impredecible",
+          "Actuación",
+          "Concurrencia",
+          "Intensividad de la red"
+        ],
+        "respuestaCorrecta": "Concurrencia",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 384,
+        "pregunta": "¿Qué atributo de la aplicación web se define en la declaración: 'La calidad y la naturaleza estética del contenido sigue siendo un determinante importante de la calidad de una aplicación web'?",
+        "opciones": [
+          "Disponibilidad",
+          "Datos impulsados",
+          "Contenido sensible",
+          "Evolución continua"
+        ],
+        "respuestaCorrecta": "Contenido sensible",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 385,
+        "pregunta": "Si el usuario consulta una colección de grandes bases de datos y extrae información de la aplicación web, la aplicación se clasifica en",
+        "opciones": [
+          "Aplicación orientada al servicio",
+          "Aplicación de acceso a la base de datos",
+          "Aplicación de portal",
+          "Aplicación de almacenamiento de datos"
+        ],
+        "respuestaCorrecta": "Aplicación de almacenamiento de datos",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 386,
+        "pregunta": "¿Qué modelo de proceso se debe utilizar en prácticamente todas las situaciones de ingeniería web?",
+        "opciones": [
+          "Modelo incremental",
+          "Modelo de cascada",
+          "Modelo espiral",
+          "Ninguno de los mencionados"
+        ],
+        "respuestaCorrecta": "Modelo incremental",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 387,
+        "pregunta": "¿Qué análisis forma parte del modelo de análisis del marco del proceso de ingeniería web?",
+        "opciones": [
+          "Análisis de contenido",
+          "Análisis de interacción",
+          "Análisis funcional",
+          "Todos los mencionados"
+        ],
+        "respuestaCorrecta": "Todos los mencionados",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 388,
+        "pregunta": "El desarrollo web y el desarrollo de software son lo mismo.",
+        "opciones": [
+          "Cierto",
+          "Falso",
+          "No puedo decir",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Falso",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 389,
+        "pregunta": "Los sistemas basados en la web a menudo están orientados a documentos y contienen contenido estático o dinámico.",
+        "opciones": [
+          "Cierto",
+          "Falso",
+          "No puedo decir",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Cierto",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 390,
+        "pregunta": "El núcleo de la ingeniería inversa es una actividad llamada",
+        "opciones": [
+          "código de reestructuración",
+          "direccionalidad",
+          "extraer abstracciones",
+          "interactividad"
+        ],
+        "respuestaCorrecta": "extraer abstracciones",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 391,
+        "pregunta": "¿Qué se ha convertido en una exigencia para los productos y sistemas informáticos de todo tipo?",
+        "opciones": [
+          "GUIs",
+          "Llaves del candidato",
+          "Modelo de objeto",
+          "Todos los mencionados"
+        ],
+        "respuestaCorrecta": "GUIs",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 392,
+        "pregunta": "La ingeniería delantera también se conoce como",
+        "opciones": [
+          "extraer abstracciones",
+          "renovación",
+          "recuperación",
+          "Renovación y recuperación"
+        ],
+        "respuestaCorrecta": "Renovación y recuperación",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 393,
+        "pregunta": "La ingeniería inversa es el proceso de derivar el diseño y la especificación del sistema de su",
+        "opciones": [
+          "GUI",
+          "Base de datos",
+          "Código fuente",
+          "Todos los mencionados"
+        ],
+        "respuestaCorrecta": "Código fuente",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 394,
+        "pregunta": "Las técnicas de ingeniería inversa para datos de programas internos se centran en la definición de clases de objetos.",
+        "opciones": [
+          "Cierto",
+          "Falso",
+          "No puedo decir",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Cierto",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 395,
+        "pregunta": "¿Cuál de los siguientes pasos no se puede usar para definir el modelo de datos existente como un precursor para rediseñar un nuevo modelo de base de datos?",
+        "opciones": [
+          "Construir un modelo de objeto inicial",
+          "Determinar las claves del candidato",
+          "Refinar las clases tentativas",
+          "Descubrir interfaces de usuario"
+        ],
+        "respuestaCorrecta": "Descubrir interfaces de usuario",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 396,
+        "pregunta": "Gran parte de la información necesaria para crear un modelo de comportamiento puede obtenerse observando la manifestación externa de los existentes.",
+        "opciones": [
+          "claves candidatas",
+          "interfaz",
+          "estructura de base de datos",
+          "ninguno de los mencionados"
+        ],
+        "respuestaCorrecta": "interfaz",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 397,
+        "pregunta": "A veces se llama extracción de elementos de datos y objetos para obtener información sobre el flujo de datos y para comprender las estructuras de datos existentes que se han implementado.",
+        "opciones": [
+          "análisis de los datos",
+          "direccionalidad",
+          "extracción de datos",
+          "aplicaciones cliente"
+        ],
+        "respuestaCorrecta": "análisis de los datos",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 398,
+        "pregunta": "La ingeniería inversa y la reingeniería son procesos equivalentes de la ingeniería de software.",
+        "opciones": [
+          "Cierto",
+          "Falso",
+          "No puedo decir",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": "Falso",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 399,
+        "pregunta": "La transformación de un sistema de una forma de representación a otra se conoce como",
+        "opciones": [
+          "Re-factoring",
+          "Reestructuración",
+          "Ingeniería delantera",
+          "Re-factoring y Reestructuración"
+        ],
+        "respuestaCorrecta": "Re-factoring y Reestructuración",
+        "categoria": "Cuarta Práctica"
+      },
+      {
+        "id": 400,
+        "pregunta": "Tabla de decisiones",
+        "opciones": [
+          "muestra los caminos de decisión",
+          "representa un flujo de información",
+          "Obtiene una imagen precisa del sistema",
+          "Reglas de documentos que seleccionan una o más acciones basadas en una o más condiciones de un conjunto de condiciones posibles"
+        ],
+        "respuestaCorrecta": "Reglas de documentos que seleccionan una o más acciones basadas en una o más condiciones de un conjunto de condiciones posibles",
+        "categoria": "Cuarta Práctica"
+      }
+      
+      
+  ]
+  
