@@ -1,7 +1,7 @@
 // src/App.tsx
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Navbar from './components/Navbar';
+import Navbar from './components/NavBar';
 import Home from './components/Home';
 import QuizSetup from './components/QuizSetup';
 import Quiz from './pages/Quiz';

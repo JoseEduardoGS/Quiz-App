@@ -10,7 +10,7 @@ const Quiz: React.FC = () => {
 
   const [currentQuestion, setCurrentQuestion] = useState(0);
   const [selectedAnswer, setSelectedAnswer] = useState<string | null>(null);
-  const [feedback, setFeedback] = useState<string>('');
+  {/*const [feedback, setFeedback] = useState<string>('');*/}
   const [answered, setAnswered] = useState<boolean>(false);
   const [answersStatus, setAnswersStatus] = useState<string[]>([]);
   const [correctAnswersCount, setCorrectAnswersCount] = useState(0); // Para contar respuestas correctas
@@ -36,7 +36,7 @@ const Quiz: React.FC = () => {
         setCorrectAnswersCount(correctAnswersCount + 1);
       }
 
-      setFeedback(selectedAnswer === correctAnswer ? 'Correcto' : 'Incorrecto');
+      /*setFeedback(selectedAnswer === correctAnswer ? 'Correcto' : 'Incorrecto');*/
       setAnswered(true);
     }
   };
@@ -45,7 +45,7 @@ const Quiz: React.FC = () => {
     if (currentQuestion < preguntasSeleccionadas.length - 1) {
       setCurrentQuestion(currentQuestion + 1);
       setSelectedAnswer(null);
-      setFeedback('');
+      /*setFeedback('');*/
       setAnswered(false);
     } else {
       // Cuando llegamos a la última pregunta, mostramos los resultados

@@ -10,7 +10,7 @@ interface QuizSetupProps {
 
 const categorias = ['Primera Práctica', 'Segunda Práctica','Tercera Práctica', 'Cuarta Práctica', 'Todas las categorías'];
 
-const QuizSetup: React.FC<QuizSetupProps> = ({ totalPreguntas, onClose }) => {
+const QuizSetup: React.FC<QuizSetupProps> = () => {
   const [categoriaSeleccionada, setCategoriaSeleccionada] = useState<string>('Cultura General');
   const [cantidad, setCantidad] = useState<number>(1);
   const [maxPreguntas, setMaxPreguntas] = useState<number>(0); // Para almacenar el máximo de preguntas según la categoría
