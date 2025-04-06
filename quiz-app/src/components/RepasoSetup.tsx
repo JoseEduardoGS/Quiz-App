@@ -3,14 +3,14 @@ import React, { useState } from 'react';
 import '../styles/QuizSetup.css'; // Puedes reutilizar los estilos
 import { useNavigate } from 'react-router-dom';
 
-const categorias = ['Primera Practica', 'Segunda Practica','Tercera Práctica','Cuarta Práctica', 'Todas las categorías'];
+const categorias = ['Primera Práctica', 'Segunda Práctica','Tercera Práctica','Cuarta Práctica', 'Todas las categorías'];
 
 interface RepasoSetupProps {
   onClose: () => void;
 }
 
 const RepasoSetup: React.FC<RepasoSetupProps> = ({ onClose }) => {
-  const [categoriaSeleccionada, setCategoriaSeleccionada] = useState<string>('Cultura General');
+  const [categoriaSeleccionada, setCategoriaSeleccionada] = useState<string>('Primera Práctica');
   const navigate = useNavigate();
 
   const handleContinuar = () => {
